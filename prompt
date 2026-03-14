@@ -1,1 +1,4 @@
  write a full 100 + pages  within thesis book Student Shahrear Hossain ID ET223104  Supervizor Lecturer Riazul Isalm  International Islamic Univeristy Chittagong  reserach topic 1 Bit Comparator with QCA  means Quantum dot Cellur Automata . make this in latex formet full write the fulf thesis formet .  with help of the image this for image used this compataror folder foe necessary image
+
+
+ pdflatex -interaction=nonstopmode Thesis_1Bit_Comparator_QCA_COMPLETE.tex
