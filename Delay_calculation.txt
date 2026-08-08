@@ -1,0 +1,34 @@
+*=========================================================
+* Delay Calculation
+*=========================================================
+
+* Output a0
+.meas time1 FIND time WHEN V(a0)=1 RISE=1
+.meas time2 FIND time WHEN V(b0)=1 FALL=1
+.meas TPHL PARAM time2-time1
+
+* Output a1
+.meas time3 FIND time WHEN V(a1)=1 FALL=1
+.meas time4 FIND time WHEN V(b1)=1 RISE=1
+.meas TPLH PARAM time4-time3
+
+* Average Propagation Delay
+.meas delay PARAM (TPHL+TPLH)/2
+
+
+*=========================================================
+* Fall Time
+*=========================================================
+
+.meas timea FIND time WHEN V(a0)=1 RISE=1
+.meas timeb FIND time WHEN V(b0)=1 FALL=1
+.meas tfall PARAM timeb-timea
+
+
+*=========================================================
+* Rise Time
+*=========================================================
+
+.meas timec FIND time WHEN V(a1)=1 FALL=1
+.meas timed FIND time WHEN V(b1)=1 RISE=1
+.meas trise PARAM timed-timec

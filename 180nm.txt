@@ -1,0 +1,7 @@
+A = B	        Static	         TG             PTL	         GDI
+Rise Time	20.873786ns	20.115774ns	20.357143ns	20.438472ns
+Fall Time	50ns	        30.969609ns 	30.071429ns	30.551627ns
+Popagation Delay35.5436693	25.540932ns	25.214286	25.4950495ns
+
+180nm
+A=B
