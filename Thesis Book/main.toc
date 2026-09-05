@@ -1,0 +1,108 @@
+\contentsline {chapter}{CERTIFICATE OF APPROVAL}{ii}{chapter*.1}%
+\contentsline {chapter}{DECLARATION}{iii}{chapter*.2}%
+\contentsline {chapter}{DEDICATION}{iv}{chapter*.3}%
+\contentsline {chapter}{ACKNOWLEDGEMENT}{v}{chapter*.4}%
+\contentsline {chapter}{ABSTRACT}{vi}{chapter*.5}%
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xvii}{chapter*.9}%
+\contentsline {chapter}{LIST OF SYMBOLS}{xix}{chapter*.10}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background and Context}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Historical Evolution of Semiconductor Technology}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}MOSFET Device Physics Fundamentals}{3}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}MOSFET Operating Regions}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Threshold Voltage and Body Effect}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}CMOS Inverter: The Fundamental Logic Gate}{5}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Nanoscale Scaling Limits and the Low-Power Imperative}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Overview of VLSI Design Flow}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Digital Comparators in Modern VLSI Architectures}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Comparative Overview of Digital Logic Design Paradigms}{11}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Static Complementary CMOS Logic (C-CMOS)}{11}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Pass Transistor Logic (PTL)}{12}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Transmission Gate Logic (TGL)}{12}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Gate Diffusion Input (GDI) Technique}{12}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.5}Summary Comparison of Logic Styles}{12}{subsection.1.7.5}%
+\contentsline {section}{\numberline {1.8}Motivation and Research Drivers}{13}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Problem Statement}{14}{section.1.9}%
+\contentsline {section}{\numberline {1.10}Research Objectives}{15}{section.1.10}%
+\contentsline {section}{\numberline {1.11}Research Methodology}{16}{section.1.11}%
+\contentsline {section}{\numberline {1.12}Scope and Delimitations of the Study}{16}{section.1.12}%
+\contentsline {section}{\numberline {1.13}Thesis Organization}{17}{section.1.13}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{18}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Fundamentals of Binary Magnitude Comparators}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Karnaugh Map Minimization}{19}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Extension to Multi-Bit Comparators}{20}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}MOSFET Power Dissipation Mechanisms}{20}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Dynamic Switching Power ($P_{dyn}$)}{21}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Short-Circuit Power ($P_{sc}$)}{21}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Static Leakage Power ($P_{stat}$)}{21}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Analysis of Digital Logic Styles}{23}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Conventional Static CMOS Logic}{23}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Pass Transistor Logic (PTL)}{23}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Transmission Gate Logic (TGL)}{24}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Gate Diffusion Input (GDI) Technique}{25}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}CMOS Technology Scaling Roadmap}{27}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Detailed Review of Key Prior Works}{27}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Work 1: Kumar and Kumar (2017) -- CMOS Stacking Technique}{28}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Work 2: Tailor, Sharma, and Kumar (2019) -- MTCMOS and Forced Stacking}{28}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Work 3: Lubaba, Islam, Faisal, and Hasan (2020) -- Hybrid PTL-TG-CMOS Comparator}{29}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Work 4: Sharma, Premananda, Raj, and Pandey (2025) -- Hybrid PTL-GDI-TGL Comparator}{30}{subsection.2.6.4}%
+\contentsline {section}{\numberline {2.7}Comparative Literature Summary}{31}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Research Gap Analysis}{31}{section.2.8}%
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{33}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Research Workflow and Execution Phases}{33}{section.3.2}%
+\contentsline {section}{\numberline {3.3}System Specifications}{34}{section.3.3}%
+\contentsline {section}{\numberline {3.4}LTSpice Simulation Environment}{34}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Predictive Technology Model (PTM)}{35}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Comparator Architecture and Boolean Derivation}{35}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Mapping Boolean Functions to GDI Cells}{36}{subsection.3.6.1}%
+\contentsline {section}{\numberline {3.7}Transistor-Level Circuit Implementations}{37}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Proposed 10-Transistor GDI Comparator}{37}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Conventional Static CMOS Comparator (32 Transistors)}{38}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Pass Transistor Logic (PTL) Comparator (10 Transistors)}{39}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Transmission Gate Logic (TGL) Comparator (16 Transistors)}{40}{subsection.3.7.4}%
+\contentsline {section}{\numberline {3.8}Transistor Sizing and Channel Geometry}{41}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Simulation Testbench and Measurement Methodology}{42}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Input Signal Configuration}{42}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Propagation Delay Measurement}{43}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Average Power and PDP Computation}{43}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Simulation Accuracy and Convergence Settings}{44}{subsection.3.9.4}%
+\contentsline {chapter}{\numberline {4}RESULTS AND DISCUSSION}{45}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{45}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Functional Waveform Verification}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Verification Summary}{46}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Detailed Performance Analysis of the Proposed GDI Comparator}{46}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Analysis of Switching Asymmetry}{46}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Performance Characterization of Benchmark Comparators}{47}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Static CMOS Comparator (32 Transistors)}{47}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Transmission Gate Logic Comparator (16 Transistors)}{47}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Pass Transistor Logic Comparator (10 Transistors)}{48}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Comprehensive Comparative Performance Evaluation}{49}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Power Dissipation Analysis}{49}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Propagation Delay Analysis}{50}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Comparison with Benchmark Literature}{50}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Detailed Literature Comparison Analysis}{51}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4.7}Technology Node Scaling Evaluation}{52}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Scaling Trend Analysis}{52}{subsection.4.7.1}%
+\contentsline {section}{\numberline {4.8}Assess Issues: Societal, Health, Legal, and Cultural}{53}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Societal Impact}{53}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Health and Safety Considerations}{53}{subsection.4.8.2}%
+\contentsline {subsection}{\numberline {4.8.3}Legal and Regulatory Compliance}{53}{subsection.4.8.3}%
+\contentsline {subsection}{\numberline {4.8.4}Cultural and Educational Accessibility}{53}{subsection.4.8.4}%
+\contentsline {section}{\numberline {4.9}Sustainability, Environmental, and Lifecycle Impacts}{54}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Energy Consumption and Carbon Footprint}{54}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Silicon Area and E-Waste Reduction}{54}{subsection.4.9.2}%
+\contentsline {subsection}{\numberline {4.9.3}Extended Device Operational Lifetime}{54}{subsection.4.9.3}%
+\contentsline {subsection}{\numberline {4.9.4}Contribution to Sustainable Development Goals}{54}{subsection.4.9.4}%
+\contentsline {chapter}{\numberline {5}CONCLUSIONS AND FUTURE WORK}{56}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary of Research}{56}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Conclusions}{57}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Contributions of This Thesis}{57}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Limitations of the Current Study}{58}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Recommendations for Future Work}{59}{section.5.5}%
+\contentsline {chapter}{REFERENCES}{60}{chapter*.11}%
+\contentsline {chapter}{APPENDIX A: SIMULATION CONFIGURATION}{62}{chapter*.12}%
+\contentsline {chapter}{APPENDIX B: COMPLEX ENGINEERING PROBLEM ATTRIBUTES}{64}{chapter*.13}%
+\contentsline {chapter}{APPENDIX C: COMPLEX ENGINEERING ACTIVITIES}{65}{chapter*.14}%
+\contentsline {chapter}{APPENDIX D: MATHEMATICAL MODELS}{66}{chapter*.15}%

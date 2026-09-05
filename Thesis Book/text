@@ -1,0 +1,17 @@
+
+ pdflatex -interaction=nonstopmode main.tex; pdflatex -interaction=nonstopmode main.tex
+
+
+  make top 2nd page and 4th page blank and add line to the
+  all signature where it nrrd to signatures and other blank
+  page plz remove and add more information here this thesis 
+  at leest 100 pages and add more relement images and picture 
+  through internet
+
+
+  update table of Contant and remove do dot in in 
+  the page numbering. also update the list of figures all 
+  figure and remove dot dot in page number also upadte  
+  list of tables and remove dot dot page numbering also 
+  declaartation add this two row two culumacknowlade add this
+   just change here supervior name  Riazul Islam.

@@ -1,0 +1,15 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Moore's Law: Historical trend of transistor count growth and minimum feature size reduction in semiconductor technology from 1970 to 2025.}}{2}{figure.1.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Cross-sectional diagram of NMOS (N-channel) and PMOS (P-channel) MOSFET transistors fabricated on a common P-type silicon substrate, showing gate, source, drain, gate oxide, channel, and well regions.}}{4}{figure.1.2}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces CMOS inverter: (left) transistor-level circuit schematic showing PMOS pull-up and NMOS pull-down configuration; (right) voltage transfer characteristic (VTC) curve with labeled noise margin parameters $V_{OH}$, $V_{OL}$, $V_{IH}$, $V_{IL}$, and switching threshold $V_M$.}}{6}{figure.1.3}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Standard VLSI IC design flow showing the hierarchical progression from system specification through architectural design, logic synthesis, circuit design, physical layout, design verification, fabrication, and testing.}}{8}{figure.1.4}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Functional block diagram of a 1-bit magnitude comparator with two single-bit inputs ($A$ and $B$) and three comparison outputs ($A>B$, $A=B$, $A<B$).}}{10}{figure.1.5}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Basic Gate Diffusion Input (GDI) cell: (left) transistor-level schematic showing PMOS and NMOS with three independent input terminals $G$, $P$, $N$, and common drain output; (right) simplified GDI cell symbol.}}{25}{figure.2.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Transistor-level circuit of the proposed GDI-based 1-bit magnitude comparator (10 transistors).}}{38}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Transistor-level circuit of the conventional static CMOS 1-bit comparator (32 transistors).}}{39}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Transistor-level circuit of the pass transistor logic (PTL) 1-bit comparator (10 transistors).}}{40}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Transistor-level circuit of the transmission gate logic (TGL) 1-bit comparator (16 transistors).}}{41}{figure.3.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
