@@ -1,0 +1,198 @@
+=== PAGE 1 ===
+ 
+ 
+International Islamic University Chittagong (IIUC) 
+Department of Electrical and Electronic Engineering 
+ 
+(Project/Thesis Proposal) 
+ 
+Application for the Approval of Project/Thesis Proposal 
+ 
+1. 
+Group No.: 
+2. 
+Name of Students 
+Matric ID 
+Mobile 
+Email 
+i.  
+ 
+ 
+ 
+ii. 
+ 
+ 
+ 
+iii. 
+ 
+ 
+ 
+3. 
+Name and designation of the Supervisor:  
+ 
+4. 
+Date of Assigning Supervisor:  
+5.  
+Date of Proposal Submission: 
+6. 
+Tentative Title:  
+ 
+7. 
+Introduction: 
+The introduction should provide the background and context of the proposed project/thesis. It 
+should: 
+i. 
+Introduce the application area or engineering problem. 
+ii. 
+Explain the significance and motivation of the study. 
+iii. 
+Briefly describe the current state of the technology or research. 
+iv. 
+End with a brief overview of the proposed solution or approach. 
+The introduction should not exceed 400 words. 
+8. 
+Literature Review: 
+The literature review should demonstrate an understanding of existing research and technologies 
+related to the proposed work. It should: 
+i. 
+Review relevant journal articles, conference papers, books, or technical reports. 
+ii. 
+Summarize existing methods, algorithms, systems, or technologies. 
+iii. 
+Compare previous works by highlighting their strengths and limitations. 
+iv. 
+Organize the review logically (e.g., chronologically or by topic), rather than discussing 
+papers one by one. 
+v. 
+Cite all sources using the prescribed referencing style. 
+Use recent and high-quality references (maximum 20 most relevant and recent references), 
+preferably from the last 5–10 years, unless citing classical or foundational works. 
+9. 
+Problem Statement/Research Gap: 
+Clearly identify the engineering problem that your thesis/project intends to solve. This section 
+should: 
+i. 
+Explain the limitations or shortcomings of existing methods or systems. 
+ii. 
+Clearly define the specific problem to be addressed. 
+iii. 
+Ensure that the identified problem is consistent with the literature review. 
+The problem statement should be concise, specific, and supported by evidence from the 
+literature. 
+ 
+
+
+=== PAGE 2 ===
+10. Objectives with specific aims: 
+State the objectives of the project clearly and concisely. 
+ 
+Begin with one general objective describing the overall goal of the project. 
+ 
+Follow with 2–3 specific objectives that describe the individual tasks required to achieve 
+the general objective. 
+ 
+Use measurable action verbs such as design, develop, implement, analyze, evaluate, 
+compare, optimize, validate, or investigate. 
+ 
+Ensure that each objective is realistic, achievable within one year, and aligned with the 
+identified problem. 
+11. Proposed Methodology: 
+Describe how the proposed objectives will be achieved. The methodology should present the 
+overall engineering approach and demonstrate the feasibility of the proposed work. Focus on the 
+design and development strategy rather than detailed implementation. 
+Include a block diagram, flowchart, system architecture diagram, or research framework to 
+clearly illustrate the proposed methodology. The methodology should provide sufficient detail to 
+demonstrate that the proposed work is technically sound, feasible, and achievable within the 
+project duration, without presenting detailed implementation or experimental results. 
+ 
+12. Gantt Chart: 
+The duration of the Final Year Project/Thesis is 12 months (1 year). Prepare a Gantt chart that 
+presents the planned timeline and major phases of your project/thesis. The chart should include 
+both the activities completed before proposal submission and the planned activities for the 
+remaining period, demonstrating that the entire project can be completed within the allocated 
+one-year duration. 
+When preparing the Gantt chart, follow these guidelines: 
+i. 
+The project proposal is submitted after approximately 4 months of work. Therefore, the 
+Gantt chart should include: 
+a) Activities completed before proposal submission. 
+b) Activities planned for the remaining period after proposal approval. 
+ii. 
+Use months as the time scale. 
+iii. 
+Divide the project into clear and logical phases. 
+iv. 
+Arrange the activities in a realistic sequence. Where appropriate, show overlapping 
+activities. 
+v. 
+Recommended Phases of Work: The Gantt chart should, where applicable, include the 
+following phases: 
+a) Topic selection and problem identification 
+b) Literature review 
+c) Proposal preparation and presentation 
+d) Requirement analysis and methodology development 
+e) System design (hardware/software/algorithm) 
+f) Simulation and/or implementation 
+g) Experimental setup and data collection (if applicable) 
+h) Testing, verification, and validation 
+i) Results analysis and performance evaluation 
+j) Thesis writing and documentation 
+k) Thesis revision 
+l) Final thesis submission, presentation, and defense 
+N.B. Prepare your Gantt chart carefully, as it will be used as a reference throughout the project. 
+During the final defense, the examiners will assess whether the project was completed according 
+
+
+=== PAGE 3 ===
+to the proposed timeline and sequence of activities. Adherence to the approved schedule is an 
+assessment criterion, and marks will be awarded accordingly. 
+13. References: 
+Reference Style 
+Use the IEEE reference style throughout the proposal. List all references at the end of the 
+document under the heading References. References should be numbered sequentially according 
+to the order in which they first appear in the text. 
+Examples: 
+Journal Article 
+[1] A. B. Author and C. D. Author, "Title of the paper," Journal Name, vol. xx, no. xx, pp. xx–
+xx, Year. 
+Conference Paper 
+[2] A. B. Author, "Title of the paper," in Proceedings of the Conference Name, City, Country, 
+Year, pp. xx–xx. 
+Book 
+[3] A. B. Author, Title of Book, xth ed. City, Country: Publisher, Year. 
+Book Chapter 
+[4] A. B. Author, "Chapter title," in Title of Book, xth ed., A. Editor, Ed. City, Country: 
+Publisher, Year, pp. xx–xx. 
+In-Text Citation Style 
+Cite references in the text using the corresponding reference number enclosed in square brackets, 
+e.g., [1], [2], or [3]–[5]. References should be cited in numerical order based on their first 
+appearance in the text. Use the same reference number whenever the same source is cited again. 
+14. Justification of the problem as Complex Engineering Problem: 
+** Please note that your research problem must be a complex engineering problem. You have to 
+identify which WP’s and WA’s will be addressed in your research with proper justification.   
+15. Budget (if any): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Students  
+ 
+ 
+ 
+ 
+Signature of the Supervisor 
+ 
+ 
+ 
+ 
+Signature of the Convener, Thesis/Project Committee 
+ 
+ 
+ 
+ 
+ 
+
+

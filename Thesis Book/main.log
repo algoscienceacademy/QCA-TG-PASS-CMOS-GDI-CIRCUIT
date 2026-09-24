@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.1)  17 SEP 2026 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.1)  22 SEP 2026 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,6 +146,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
+) (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 ) (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen168
@@ -266,24 +268,24 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -325,16 +327,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 89.
+Package hyperref Info: Link coloring OFF on input line 91.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 98.
+ (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
 <iiuc_logo.jpg, id=434, 228.855pt x 228.855pt>
 File: iiuc_logo.jpg Graphic file (type jpg)
 <use iiuc_logo.jpg>
-Package pdftex.def Info: iiuc_logo.jpg  used on input line 113.
-(pdftex.def)             Requested size: 71.13188pt x 71.12938pt.
+Package pdftex.def Info: iiuc_logo.jpg  used on input line 114.
+(pdftex.def)             Requested size: 99.58253pt x 85.35596pt.
 
 
 [1
@@ -344,11 +350,6 @@ Package pdftex.def Info: iiuc_logo.jpg  used on input line 113.
 [2
 
 ]
-File: iiuc_logo.jpg Graphic file (type jpg)
-<use iiuc_logo.jpg>
-Package pdftex.def Info: iiuc_logo.jpg  used on input line 160.
-(pdftex.def)             Requested size: 71.13188pt x 71.12938pt.
-
 
 [3
 
@@ -357,11 +358,11 @@ Package pdftex.def Info: iiuc_logo.jpg  used on input line 160.
 [4
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 198.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 197.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 198.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 197.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -451,15 +452,15 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.384 
+l.383 
        [1
 
 
 ]
-<moores_law_scaling.jpg, id=728, 331.4784pt x 185.0112pt>
+<moores_law_scaling.jpg, id=729, 331.4784pt x 185.0112pt>
 File: moores_law_scaling.jpg Graphic file (type jpg)
 <use moores_law_scaling.jpg>
-Package pdftex.def Info: moores_law_scaling.jpg  used on input line 389.
+Package pdftex.def Info: moores_law_scaling.jpg  used on input line 388.
 (pdftex.def)             Requested size: 395.98996pt x 221.02144pt.
 
 
@@ -467,12 +468,12 @@ Package pdftex.def Info: moores_law_scaling.jpg  used on input line 389.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.395 
+l.394 
        [2 <./moores_law_scaling.jpg>]
-<mosfet_cross_section.jpg, id=734, 331.4784pt x 185.0112pt>
+<mosfet_cross_section.jpg, id=735, 331.4784pt x 185.0112pt>
 File: mosfet_cross_section.jpg Graphic file (type jpg)
 <use mosfet_cross_section.jpg>
-Package pdftex.def Info: mosfet_cross_section.jpg  used on input line 436.
+Package pdftex.def Info: mosfet_cross_section.jpg  used on input line 435.
 (pdftex.def)             Requested size: 395.98996pt x 221.02144pt.
 
 
@@ -480,67 +481,67 @@ Package pdftex.def Info: mosfet_cross_section.jpg  used on input line 436.
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.440 
+l.439 
        [3]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.465 \begin{equation}
+l.464 \begin{equation}
                        [4 <./mosfet_cross_section.jpg>]
-<cmos_inverter_vtc.jpg, id=746, 331.4784pt x 185.0112pt>
+<cmos_inverter_vtc.jpg, id=747, 331.4784pt x 185.0112pt>
 File: cmos_inverter_vtc.jpg Graphic file (type jpg)
 <use cmos_inverter_vtc.jpg>
-Package pdftex.def Info: cmos_inverter_vtc.jpg  used on input line 484.
+Package pdftex.def Info: cmos_inverter_vtc.jpg  used on input line 483.
 (pdftex.def)             Requested size: 395.98996pt x 221.02144pt.
 
 
 [5]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 491.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 490.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 
 [6 <./cmos_inverter_vtc.jpg>]
-Overfull \hbox (5.53938pt too wide) in paragraph at lines 508--509
+Overfull \hbox (5.53938pt too wide) in paragraph at lines 507--508
 \T1/ptm/m/n/12 However, as tran-sis-tor phys-i-cal gate lengths scaled deep into the sub-micron and nanome-
  []
 
 
-Overfull \hbox (1.50554pt too wide) in paragraph at lines 515--516
+Overfull \hbox (1.50554pt too wide) in paragraph at lines 514--515
 \T1/ptm/m/n/12 (hot spots), re-quir-ing com-plex liquid-cooling sys-tems, es-ca-lat-ing op-er-a-tional elec-
  []
 
 
 
 [7]
-Overfull \hbox (3.67755pt too wide) in paragraph at lines 518--519
+Overfull \hbox (3.67755pt too wide) in paragraph at lines 517--518
 []\T1/ptm/b/n/12 Biomedical and Im-plantable De-vices: \T1/ptm/m/n/12 Im-plantable car-diac pace-mak-ers, cochlear
  []
 
-<vlsi_design_flow.jpg, id=767, 289.08pt x 215.8464pt>
+<vlsi_design_flow.jpg, id=768, 289.08pt x 215.8464pt>
 File: vlsi_design_flow.jpg Graphic file (type jpg)
 <use vlsi_design_flow.jpg>
-Package pdftex.def Info: vlsi_design_flow.jpg  used on input line 529.
+Package pdftex.def Info: vlsi_design_flow.jpg  used on input line 528.
 (pdftex.def)             Requested size: 312.62466pt x 233.43669pt.
 
 
 [8 <./vlsi_design_flow.jpg>]
-Overfull \hbox (11.03539pt too wide) in paragraph at lines 548--549
+Overfull \hbox (11.03539pt too wide) in paragraph at lines 547--548
 \T1/ptm/m/n/12 TSMC, Sam-sung, or Glob-al-Foundries) for pho-tolitho-graphic fab-ri-ca-tion on sil-i-con wafers. 
  []
 
 
 
 [9]
-<comparator_block_diagram.jpg, id=780, 289.08pt x 215.8464pt>
+<comparator_block_diagram.jpg, id=781, 289.08pt x 215.8464pt>
 File: comparator_block_diagram.jpg Graphic file (type jpg)
 <use comparator_block_diagram.jpg>
-Package pdftex.def Info: comparator_block_diagram.jpg  used on input line 560.
+Package pdftex.def Info: comparator_block_diagram.jpg  used on input line 559.
 (pdftex.def)             Requested size: 250.10226pt x 186.7408pt.
 
-Overfull \hbox (4.5337pt too wide) in paragraph at lines 574--575
+Overfull \hbox (4.5337pt too wide) in paragraph at lines 573--574
 []\T1/ptm/m/n/12 Digital mag-ni-tude com-para-tors per-form in-dis-pens-able com-pu-ta-tional roles across
  []
 
@@ -549,12 +550,12 @@ Overfull \hbox (4.5337pt too wide) in paragraph at lines 574--575
 [10 <./comparator_block_diagram.jpg>]
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 617--617
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 []|\T1/ptm/m/n/12 Output Volt-age
  []
 
 
-Underfull \hbox (badness 4144) in paragraph at lines 625--625
+Underfull \hbox (badness 4144) in paragraph at lines 624--624
 []|\T1/ptm/m/n/12 Design Com-plex-
  []
 
@@ -569,7 +570,7 @@ Underfull \hbox (badness 4144) in paragraph at lines 625--625
 [15]
 
 [16]
-Overfull \hbox (1.7348pt too wide) in paragraph at lines 717--719
+Overfull \hbox (1.7348pt too wide) in paragraph at lines 716--718
 \T1/ptm/m/n/12 P1--P7), Ap-pendix C (Com-plex En-gi-neer-ing Ac-tiv-i-ties A1--A5), and Ap-pendix D (Math-
  []
 
@@ -578,7 +579,7 @@ Overfull \hbox (1.7348pt too wide) in paragraph at lines 717--719
 [17]
 Chapter 2.
 
-Overfull \hbox (9.63054pt too wide) in paragraph at lines 728--729
+Overfull \hbox (9.63054pt too wide) in paragraph at lines 727--728
 \T1/ptm/m/n/12 This chap-ter presents a de-tailed re-view of the the-o-ret-i-cal con-cepts, semi-con-duc-tor physics,
  []
 
@@ -591,56 +592,56 @@ Overfull \hbox (9.63054pt too wide) in paragraph at lines 728--729
 [19]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 853.
+(hyperref)                removing `math shift' on input line 852.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 853.
+(hyperref)                removing `subscript' on input line 852.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 853.
+(hyperref)                removing `math shift' on input line 852.
 
 
 
 [20]
-Overfull \hbox (16.84467pt too wide) in paragraph at lines 858--860
+Overfull \hbox (16.84467pt too wide) in paragraph at lines 857--859
 \T1/ptm/m/n/12 where $\OML/cmm/m/it/12 []$ \T1/ptm/m/n/12 rep-re-sents the switch-ing ac-tiv-ity fac-tor (the prob-a-bil-ity that a power-consuming
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 863.
+(hyperref)                removing `math shift' on input line 862.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 863.
+(hyperref)                removing `subscript' on input line 862.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 863.
+(hyperref)                removing `math shift' on input line 862.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 870.
+(hyperref)                removing `math shift' on input line 869.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 870.
+(hyperref)                removing `subscript' on input line 869.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 870.
+(hyperref)                removing `math shift' on input line 869.
 
 
 
 [21]
-Overfull \hbox (1.55801pt too wide) in paragraph at lines 892--893
+Overfull \hbox (1.55801pt too wide) in paragraph at lines 891--892
 []\T1/ptm/m/n/12 Table []2.2[] sum-ma-rizes the rel-a-tive sig-nif-i-cance of each leak-age mech-a-nism across
  []
 
 
-Overfull \hbox (1.68608pt too wide) in paragraph at lines 917--918
+Overfull \hbox (1.68608pt too wide) in paragraph at lines 916--917
 \T1/ptm/m/n/12 Conventional static CMOS logic con-structs logic func-tions us-ing com-ple-men-tary PMOS
  []
 
@@ -651,13 +652,13 @@ Overfull \hbox (1.68608pt too wide) in paragraph at lines 917--918
 [23]
 
 [24]
-<gdi_cell_structure.jpg, id=889, 289.08pt x 215.8464pt>
+<gdi_cell_structure.jpg, id=890, 289.08pt x 215.8464pt>
 File: gdi_cell_structure.jpg Graphic file (type jpg)
 <use gdi_cell_structure.jpg>
-Package pdftex.def Info: gdi_cell_structure.jpg  used on input line 989.
+Package pdftex.def Info: gdi_cell_structure.jpg  used on input line 988.
 (pdftex.def)             Requested size: 312.62466pt x 233.43669pt.
 
-Overfull \hbox (63.15726pt too wide) in paragraph at lines 1001--1018
+Overfull \hbox (63.15726pt too wide) in paragraph at lines 1000--1017
  [][] 
  []
 
@@ -668,7 +669,7 @@ Overfull \hbox (63.15726pt too wide) in paragraph at lines 1001--1018
 [26]
 
 [27]
-Overfull \hbox (2.91139pt too wide) in paragraph at lines 1095--1096
+Overfull \hbox (2.91139pt too wide) in paragraph at lines 1094--1095
 \T1/ptm/b/n/12 Summary: \T1/ptm/m/n/12 Tai-lor et al. pro-posed a 1-bit com-para-tor com-bin-ing Multi-Threshold CMOS
  []
 
@@ -679,27 +680,27 @@ Overfull \hbox (2.91139pt too wide) in paragraph at lines 1095--1096
 [29]
 
 [30]
-Overfull \hbox (11.41753pt too wide) in paragraph at lines 1136--1137
+Overfull \hbox (11.41753pt too wide) in paragraph at lines 1135--1136
 []\T1/ptm/b/n/12 Limitations: \T1/ptm/m/n/12 The hy-brid ar-chi-tec-ture re-quires 24 tran-sis-tors and ex-hibits microwatt-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1154--1154
+Underfull \hbox (badness 10000) in paragraph at lines 1153--1153
 []|\T1/ptm/m/n/12 Static CMOS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1156--1156
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1155
 []|\T1/ptm/m/n/12 MTCMOS +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1159
 []|\T1/ptm/m/n/12 PTL-GDI-TGL
  []
 
 
-Overfull \hbox (61.1496pt too wide) in paragraph at lines 1150--1165
+Overfull \hbox (61.1496pt too wide) in paragraph at lines 1149--1164
  [][] 
  []
 
@@ -710,7 +711,7 @@ Overfull \hbox (61.1496pt too wide) in paragraph at lines 1150--1165
 [32]
 Chapter 3.
 
-Overfull \hbox (12.72664pt too wide) in paragraph at lines 1188--1189
+Overfull \hbox (12.72664pt too wide) in paragraph at lines 1187--1188
 \T1/ptm/m/n/12 This chap-ter presents the de-tailed re-search method-ol-ogy, cir-cuit de-sign prin-ci-ples, Boolean
  []
 
@@ -719,14 +720,14 @@ Overfull \hbox (12.72664pt too wide) in paragraph at lines 1188--1189
 [33
 
 ]
-Overfull \hbox (14.94633pt too wide) in paragraph at lines 1251--1252
+Overfull \hbox (14.94633pt too wide) in paragraph at lines 1250--1251
 []\T1/ptm/b/n/12 Accuracy: \T1/ptm/m/n/12 LT-Spice em-ploys ad-vanced nu-mer-i-cal al-go-rithms and sup-ports BSIM3v3
  []
 
 
 
 [34]
-Overfull \hbox (21.90663pt too wide) in paragraph at lines 1260--1261
+Overfull \hbox (21.90663pt too wide) in paragraph at lines 1259--1260
 \T1/ptm/m/n/12 The Berke-ley Pre-dic-tive Tech-nol-ogy Model (PTM) is a stan-dard-ized set of BSIM3v3/BSIM4
  []
 
@@ -735,38 +736,38 @@ Overfull \hbox (21.90663pt too wide) in paragraph at lines 1260--1261
 [35]
 
 [36]
-<my_Propose_GDI_Comparator.png, id=973, 758.835pt x 530.58224pt>
+<my_Propose_GDI_Comparator.png, id=974, 758.835pt x 530.58224pt>
 File: my_Propose_GDI_Comparator.png Graphic file (type png)
 <use my_Propose_GDI_Comparator.png>
-Package pdftex.def Info: my_Propose_GDI_Comparator.png  used on input line 1354.
+Package pdftex.def Info: my_Propose_GDI_Comparator.png  used on input line 1353.
 (pdftex.def)             Requested size: 354.31049pt x 247.7383pt.
 
 
 [37]
-<Static_Comparator.png, id=981, 528.7755pt x 538.4115pt>
+<Static_Comparator.png, id=982, 528.7755pt x 538.4115pt>
 File: Static_Comparator.png Graphic file (type png)
 <use Static_Comparator.png>
-Package pdftex.def Info: Static_Comparator.png  used on input line 1372.
+Package pdftex.def Info: Static_Comparator.png  used on input line 1371.
 (pdftex.def)             Requested size: 325.12914pt x 331.0677pt.
 
 
 [38 <./my_Propose_GDI_Comparator.png>]
-<pass_comparator.png, id=988, 731.73375pt x 540.21825pt>
+<pass_comparator.png, id=989, 731.73375pt x 540.21825pt>
 File: pass_comparator.png Graphic file (type png)
 <use pass_comparator.png>
-Package pdftex.def Info: pass_comparator.png  used on input line 1384.
+Package pdftex.def Info: pass_comparator.png  used on input line 1383.
 (pdftex.def)             Requested size: 325.12914pt x 240.03778pt.
 
 
 [39 <./Static_Comparator.png>]
-Overfull \hbox (1.08598pt too wide) in paragraph at lines 1392--1393
+Overfull \hbox (1.08598pt too wide) in paragraph at lines 1391--1392
 \T1/ptm/m/n/12 Figure []3.4[] shows the 16-transistor TGL com-para-tor schematic, uti-liz-ing par-al-lel NMOS-
  []
 
-<TG_comparator.png, id=995, 495.65175pt x 536.0025pt>
+<TG_comparator.png, id=996, 495.65175pt x 536.0025pt>
 File: TG_comparator.png Graphic file (type png)
 <use TG_comparator.png>
-Package pdftex.def Info: TG_comparator.png  used on input line 1396.
+Package pdftex.def Info: TG_comparator.png  used on input line 1395.
 (pdftex.def)             Requested size: 325.12914pt x 351.61174pt.
 
 
@@ -785,64 +786,64 @@ Chapter 4.
 [45
 
 ]
-Overfull \hbox (43.55496pt too wide) in paragraph at lines 1565--1582
+Overfull \hbox (43.55496pt too wide) in paragraph at lines 1564--1581
  [][] 
  []
 
 
 
 [46]
-Overfull \hbox (43.55496pt too wide) in paragraph at lines 1600--1617
+Overfull \hbox (43.55496pt too wide) in paragraph at lines 1599--1616
  [][] 
  []
 
 
-Overfull \hbox (43.55496pt too wide) in paragraph at lines 1629--1646
+Overfull \hbox (43.55496pt too wide) in paragraph at lines 1628--1645
  [][] 
  []
 
 
 
 [47]
-Overfull \hbox (43.55496pt too wide) in paragraph at lines 1658--1675
+Overfull \hbox (43.55496pt too wide) in paragraph at lines 1657--1674
  [][] 
  []
 
 
-Overfull \hbox (38.38591pt too wide) in paragraph at lines 1688--1709
+Overfull \hbox (38.38591pt too wide) in paragraph at lines 1687--1708
  [][] 
  []
 
 
 
 [48]
-Overfull \hbox (4.17035pt too wide) in paragraph at lines 1715--1716
+Overfull \hbox (4.17035pt too wide) in paragraph at lines 1714--1715
 \T1/ptm/m/n/12 achieves a prop-a-ga-tion de-lay of 336.00 ps, out-per-form-ing static CMOS (398.09 ps)
  []
 
 
 
 [49]
-Underfull \hbox (badness 3199) in paragraph at lines 1752--1752
+Underfull \hbox (badness 3199) in paragraph at lines 1751--1751
 []|\T1/ptm/m/n/12 Kumar & Ku-mar (2017) [1]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1760--1760
+Underfull \hbox (badness 10000) in paragraph at lines 1759--1759
 []|\T1/ptm/b/n/12 Proposed GDI Com-para-tor
  []
 
 
 
 [50]
-Overfull \hbox (35.01443pt too wide) in paragraph at lines 1765--1766
+Overfull \hbox (35.01443pt too wide) in paragraph at lines 1764--1765
 []\T1/ptm/m/n/12 The pro-posed GDI com-para-tor achieves the low-est Power-Delay Prod-uct (0.0000114 fJ)
  []
 
 
 
 [51]
-Overfull \hbox (0.70215pt too wide) in paragraph at lines 1781--1782
+Overfull \hbox (0.70215pt too wide) in paragraph at lines 1780--1781
 \T1/ptm/m/n/12 To eval-u-ate scal-a-bil-ity, sim-u-la-tions were con-ducted across three PTM tech-nol-ogy nodes:
  []
 
@@ -851,7 +852,7 @@ Overfull \hbox (0.70215pt too wide) in paragraph at lines 1781--1782
 [52]
 
 [53]
-Overfull \hbox (8.27448pt too wide) in paragraph at lines 1842--1843
+Overfull \hbox (8.27448pt too wide) in paragraph at lines 1841--1842
 \T1/ptm/m/n/12 This re-search aligns with sev-eral United Na-tions Sus-tain-able De-vel-op-ment Goals (SDGs): 
  []
 
@@ -862,7 +863,7 @@ Overfull \hbox (8.27448pt too wide) in paragraph at lines 1842--1843
 [55]
 Chapter 5.
 
-Overfull \hbox (7.49368pt too wide) in paragraph at lines 1861--1862
+Overfull \hbox (7.49368pt too wide) in paragraph at lines 1860--1861
 []\T1/ptm/m/n/12 An ex-ten-sive lit-er-a-ture re-view cov-er-ing MOS-FET physics, power dis-si-pa-tion mech-
  []
 
@@ -871,24 +872,24 @@ Overfull \hbox (7.49368pt too wide) in paragraph at lines 1861--1862
 [56
 
 ]
-Overfull \hbox (6.21082pt too wide) in paragraph at lines 1878--1879
+Overfull \hbox (6.21082pt too wide) in paragraph at lines 1877--1878
 \T1/ptm/m/n/12 com-para-tor achieved a prop-a-ga-tion de-lay of 336.00 ps, out-per-form-ing static CMOS
  []
 
 
-Overfull \hbox (1.56622pt too wide) in paragraph at lines 1879--1880
+Overfull \hbox (1.56622pt too wide) in paragraph at lines 1878--1879
 []\T1/ptm/b/n/12 Energy Ef-fi-ciency: \T1/ptm/m/n/12 The pro-posed GDI com-para-tor achieved a Power-Delay Prod-
  []
 
 
 
 [57]
-Overfull \hbox (3.11307pt too wide) in paragraph at lines 1894--1895
+Overfull \hbox (3.11307pt too wide) in paragraph at lines 1893--1894
 []\T1/ptm/b/n/12 Literature Bench-mark Anal-y-sis: \T1/ptm/m/n/12 De-tailed crit-i-cal anal-y-sis and quan-ti-ta-tive com-
  []
 
 
-Overfull \hbox (4.2895pt too wide) in paragraph at lines 1903--1904
+Overfull \hbox (4.2895pt too wide) in paragraph at lines 1902--1903
 \T1/ptm/m/n/12 com-mon well ties, in-ter-nal GDI nodes may ex-pe-ri-ence body-effect-induced thresh-
  []
 
@@ -904,16 +905,16 @@ Overfull \hbox (4.2895pt too wide) in paragraph at lines 1903--1904
 ]
 
 [61]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1986.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1985.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (0.76694pt too wide) in paragraph at lines 1994--2000
+Overfull \hbox (0.76694pt too wide) in paragraph at lines 1993--1999
 \T1/pcr/m/n/12 .meas TRAN tpHL_AeqB TRIG V(A)=0.9 FALL=1 TARG V(AeqB)=0.9
  []
 
 
-Overfull \hbox (0.76694pt too wide) in paragraph at lines 1994--2000
+Overfull \hbox (0.76694pt too wide) in paragraph at lines 1993--1999
 \T1/pcr/m/n/12 .meas TRAN tpLH_AeqB TRIG V(A)=0.9 RISE=1 TARG V(AeqB)=0.9
  []
 
@@ -925,27 +926,27 @@ Overfull \hbox (0.76694pt too wide) in paragraph at lines 1994--2000
 ]
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 2045--2045
+Underfull \hbox (badness 10000) in paragraph at lines 2044--2044
 []|\T1/ptm/b/n/12 Complex En-gi-neer-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 2047--2048
+Underfull \hbox (badness 1205) in paragraph at lines 2046--2047
 []|\T1/ptm/m/n/12 Resolving sub-thresh-old leak-age, par-a-sitic ca-pac-i-tance,
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 2047--2048
+Underfull \hbox (badness 1270) in paragraph at lines 2046--2047
 \T1/ptm/m/n/12 and switch-ing la-tency in GDI com-para-tor de-sign re-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2049--2049
+Underfull \hbox (badness 10000) in paragraph at lines 2048--2048
 \T1/ptm/b/n/12 flict-ing Re-quire-
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 2053--2053
+Underfull \hbox (badness 1406) in paragraph at lines 2052--2052
 []|\T1/ptm/b/n/12 P4: Fa-mil-iar-ity Is-
  []
 
@@ -955,7 +956,7 @@ Underfull \hbox (badness 1406) in paragraph at lines 2053--2053
 
 
 ]
-Underfull \hbox (badness 1152) in paragraph at lines 2090--2091
+Underfull \hbox (badness 1152) in paragraph at lines 2089--2090
 \T1/ptm/m/n/12 GDI logic struc-tures, re-quir-ing anal-y-sis be-yond rou-tine
  []
 
@@ -982,18 +983,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E47D852E07EB81700B5200314E243E72;25160.
  ) 
 Here is how much of TeX's memory you used:
- 10963 strings out of 469685
- 171774 string characters out of 5470537
- 578322 words of memory out of 5000000
- 38905 multiletter control sequences out of 15000+600000
- 656647 words of font info for 77 fonts, out of 8000000 for 9000
+ 11045 strings out of 469685
+ 173308 string characters out of 5470537
+ 578521 words of memory out of 5000000
+ 38977 multiletter control sequences out of 15000+600000
+ 665560 words of font info for 83 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,12n,79p,1472b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (87 pages, 3223964 bytes).
+<c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (87 pages, 3232614 bytes).
 PDF statistics:
- 1338 PDF objects out of 1440 (max. 8388607)
- 1194 compressed objects within 12 object streams
+ 1343 PDF objects out of 1440 (max. 8388607)
+ 1197 compressed objects within 12 object streams
  358 named destinations out of 1000 (max. 500000)
  912 words of extra memory for PDF output out of 10000 (max. 10000000)
 

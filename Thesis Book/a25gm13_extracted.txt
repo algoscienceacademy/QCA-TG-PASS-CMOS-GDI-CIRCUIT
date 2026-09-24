@@ -1,0 +1,342 @@
+=== PAGE 1 ===
+International Islamic University Chittagong Department of
+Electrical and Electronic Engineering
+(Project/Thesis Proposal)
+Application for the Approval of Project/Thesis Proposal
+1. Group No.: A25GM13
+2. Name of Student
+Name
+Matric ID
+Mobile
+Email
+Sharea Hossain
+ET223104
+01859492439
+et223104@ugrad.iiuc.ac.bd
+3. Name and Designation of the Supervisor:
+Riazul Islam, Lecturer
+4. Date of Assigning Supervisor:
+09-09-2025
+5. Date of Proposal Submission:
+6. Tentative Title:
+Performance Comparison of 1-Bit Magnitude Comparator Using Static, TG, PTL, and GDI
+Logic Styles
+7. Introduction
+The
+continuous
+scaling
+of
+CMOS
+technology
+has
+enabled
+the
+development
+of
+high-performance
+and
+energy-efficient
+digital
+integrated
+circuits.
+Digital
+magnitude
+comparators are fundamen-tal building blocks in modern digital systems because they
+determine the relative relationship between two binary inputs. A 1-bit magnitude comparator
+produces three possible outputs in-dicating whether input A is greater than input B, equal to
+input B, or less than input B. Such circuits are widely used in arithmetic logic units (ALUs),
+processors, control systems, digital signal processing units, memory systems, and other VLSI
+applications.
+The implementation of a comparator at the transistor level is strongly influenced by the
+selected logic style. Static CMOS logic provides reliable operation, good noise margins, and
+full voltage swing, but it may require a relatively large number of transistors. Transmission
+Gate (TG) logic can reduce transistor count and provide efficient signal transmission. Pass
+Transistor Logic (PTL) offers compact circuit implementation and potentially lower power
+consumption,
+
+
+=== PAGE 2 ===
+although threshold-voltage loss and reduced voltage swing can affect its performance. Gate
+Diffusion Input (GDI) logic provides another low-complexity implementation technique that
+can reduce transistor count, power consumption, and circuit area.
+Therefore, selecting an appropriate logic style requires a systematic comparison of
+impor-tant performance parameters rather than considering a single parameter. This research
+proposes the design and performance comparison of a 1-bit magnitude comparator
+implemented using Static CMOS, Transmission Gate (TG), Pass Transistor Logic (PTL), and
+Gate Diffusion In-put (GDI) logic styles. The designs will be implemented at the transistor
+level and evaluated using simulation. The comparison will focus on propagation delay,
+average power consump-tion, transistor count, and Power Delay Product (PDP). The study is
+expected to identify the most suitable logic style for efficient 1-bit magnitude comparator
+design for low-power and high-performance VLSI applications.
+8. Literature Review
+CMOS logic design has been extensively investigated to achieve lower power consumption,
+higher operating speed, reduced transistor count, and improved area efficiency. Conventional
+Static CMOS remains one of the most widely used logic implementation techniques because
+of
+its
+robust
+operation,
+full
+voltage
+swing,
+and
+good
+noise immunity. However,
+complementary pull-up and pull-down networks can result in a comparatively higher
+transistor count for certain logic functions.
+Alternative logic styles have been introduced to overcome some of the limitations of
+con-ventional CMOS implementation. Transmission Gate (TG) logic uses parallel NMOS
+and PMOS devices to transmit both logic levels effectively. This approach can provide
+efficient switching and reduce circuit complexity for selected digital functions. However, the
+use of additional control signals and transistor sizing can influence overall circuit
+performance.
+Pass Transistor Logic (PTL) reduces the number of transistors by using transistors as
+con-trolled switches. PTL-based circuits can achieve compact implementation and lower
+switching activity. However, threshold-voltage degradation, reduced voltage swing, and
+signal restoration requirements may affect the reliability and speed of the circuit.
+Gate Diffusion Input (GDI) is another low-power logic design technique that modifies the
+conventional CMOS structure by applying different input signals to the gate and diffusion
+ter-minals of MOS transistors. GDI can significantly reduce transistor count and switching
+activity for several logic functions. Nevertheless, its performance can depend on the
+technology, tran-sistor sizing, input configuration, and output restoration requirements.
+Magnitude comparators have been implemented using different CMOS logic techniques
+to achieve a balance among speed, power, area, and circuit complexity. Previous research
+generally
+emphasizes
+one
+or
+two
+performance parameters, while a comprehensive
+comparison of Static CMOS, TG, PTL, and GDI implementations of the same 1-bit
+magnitude comparator under identical simulation conditions is less frequently emphasized.
+This research therefore focuses on implementing the same 1-bit magnitude comparator us-
+
+
+=== PAGE 3 ===
+ing four different logic styles and evaluating them under consistent design and simulation
+con-ditions. The comparison will provide a clearer understanding of the trade-offs among
+power consumption, propagation delay, transistor count, and Power Delay Product.
+9. Problem Statement / Research Gap
+Although several logic styles are available for implementing digital comparator circuits, each
+technique has different advantages and limitations. Static CMOS generally provides reliable
+full-swing operation and good noise margins, but its complementary transistor structure can
+in-crease transistor count and switching capacitance. TG logic can provide efficient signal
+trans-mission but may introduce additional control complexity. PTL can reduce transistor
+count and circuit complexity, but threshold-voltage degradation may affect the output signal
+level. GDI can achieve highly compact implementations and low switching activity, but its
+performance and voltage-level behavior may vary depending on circuit topology and
+operating conditions.
+Furthermore, comparing different logic styles using different circuit structures, simulation
+conditions, or performance criteria can make it difficult to determine which technique
+provides the best overall implementation for a 1-bit magnitude comparator. A direct and
+systematic comparison of Static CMOS, TG, PTL, and GDI logic styles using the same
+comparator func-tionality and consistent evaluation criteria is therefore required.
+The research gap addressed in this work is the lack of a unified performance comparison
+of these four logic styles for a 1-bit magnitude comparator under equivalent design and
+simulation conditions. The study will investigate the trade-offs among propagation delay,
+average power consumption, transistor count, and Power Delay Product. The findings will
+help identify the logic style that provides the most suitable balance between speed, power
+efficiency, and circuit complexity.
+10. Objectives with Specific Aims
+General Objective
+To design and perform a comparative analysis of a 1-bit magnitude comparator using Static
+CMOS, Transmission Gate (TG), Pass Transistor Logic (PTL), and Gate Diffusion Input
+(GDI) logic styles.
+Specific Objectives
+1. To design transistor-level 1-bit magnitude comparator circuits using Static CMOS,
+TG, PTL, and GDI logic styles.
+2. To simulate and verify the functional operation of all four comparator
+implementa-tions under identical simulation conditions.
+
+
+=== PAGE 4 ===
+3. To measure and analyze propagation delay, average power consumption, transistor
+count, and Power Delay Product (PDP) for each logic style.
+4. To compare the performance of Static CMOS, TG, PTL, and GDI implementations
+and identify the most suitable logic style based on the obtained performance
+trade-offs.
+11. Proposed Methodology
+The proposed research will follow a systematic design, simulation, verification, and
+perfor-mance evaluation procedure. First, relevant literature on 1-bit magnitude comparators
+and CMOS logic styles will be reviewed to identify existing design approaches and research
+gaps. Based on the literature review, the required design specifications and performance
+parameters will be established.
+A 1-bit magnitude comparator will then be designed using four different logic styles:
+Static CMOS, Transmission Gate (TG), Pass Transistor Logic (PTL), and Gate Diffusion
+Input (GDI). The same Boolean functionality and equivalent input conditions will be
+maintained for all four implementations to ensure a fair comparison.
+The transistor-level circuits will be implemented and simulated using an appropriate
+SPICE-based simulation environment. Functional verification will be performed for all
+possible com-binations of the two binary inputs. After successful functional verification, the
+performance of each implementation will be evaluated using propagation delay, average
+power consumption, transistor count, and Power Delay Product (PDP).
+Finally, the obtained results will be organized and compared using suitable tables and
+graphs. The comparative analysis will identify the strengths and limitations of each logic
+style and determine which implementation provides the most appropriate balance between
+speed, power consumption, and circuit complexity.
+
+
+=== PAGE 5 ===
+Research Framework
+
+
+=== PAGE 6 ===
+Block Diagram of the Proposed System
+12. Gantt Chart
+The proposed Final Year Project/Thesis will be completed over a period of 12 months. The
+planned
+activities
+include
+topic
+selection,
+literature
+review,
+proposal
+preparation,
+methodol-ogy development, circuit design, simulation, testing, performance evaluation, thesis
+writing, revision, and final submission.
+Activities
+M1 M2 M3 M4 M5 M6 M7 M8 M9 M10 M11 M12
+Topic Selection and Problem Iden-
+tification
+•
+•
+Literature Review
+•
+•
+•
+•
+Proposal Preparation and Presenta-
+tion
+•
+•
+Requirement Analysis and Method-
+ology Development
+•
+•
+•
+Comparator Circuit Design
+•
+•
+•
+SPICE Simulation
+•
+•
+•
+Testing and Functional Verification
+•
+•
+•
+Performance Analysis
+•
+•
+•
+Comparative Evaluation
+•
+•
+•
+Thesis Writing and Documentation
+•
+•
+•
+Thesis Revision
+•
+•
+Final Submission, Presentation and
+Defense
+•
+
+
+=== PAGE 7 ===
+13. References
+References
+[1] N. H. E. Weste and D. Harris, CMOS VLSI Design: A Circuits and Systems
+Perspective, 5th ed., Pearson, 2021.
+[2] J. M. Rabaey, A. Chandrakasan, and B. Nikolic, Digital Integrated Circuits, 2nd ed.,
+Pearson.
+[3] S. Kang and Y. Leblebici, CMOS Digital Integrated Circuits, McGraw-Hill.
+[4] B. Razavi, Design of Analog CMOS Integrated Circuits, McGraw-Hill.
+[5] A. Morgenshtein, A. Fish, and I. A. Wagner, “Gate-Diffusion Input (GDI): A
+Power-Efficient Method for Digital Combinatorial Circuits,” IEEE Transactions on Very
+Large Scale Integration (VLSI) Systems, vol. 10, no. 5, pp. 566–581, Oct. 2002.
+[6] K. Yano et al., “A 3.8-ns CMOS 16 × 16-bit Multiplier Using Complementary
+Pass-Transistor Logic,” IEEE Journal of Solid-State Circuits, vol. 25, no. 2, pp.
+388–395, Apr. 1990.
+[7] R.
+Zimmermann
+and
+W.
+Fichtner,
+“Low-Power
+Logic
+Styles:
+CMOS Versus
+Pass-Transistor Logic,” IEEE Journal of Solid-State Circuits, vol. 32, no. 7, pp.
+1079–1090, Jul. 1997.
+[8] M. Alioto, “Ultra-Low Power VLSI Circuit Design Demystified and Explained: A
+Tuto-rial,” IEEE Transactions on Circuits and Systems I, vol. 59, no. 1, pp. 3–29, Jan.
+2012.
+[9] Y. Taur and T. H. Ning, Fundamentals of Modern VLSI Devices, Cambridge University
+Press.
+[10] M. Jan, “Low-Power CMOS Comparator Design,” IEEE Access, 2021.
+[11] A. Kumar and P. Singh, “High-Speed CMOS Comparator Using 45 nm Technology,” in
+Proceedings of IEEE Conference, 2022.
+[12] S. Roy et al., “Power Efficient Comparator Design,” Microelectronics Journal, 2023.
+14.
+Justification of the Problem as Complex Engineering
+Prob-lem
+The proposed research addresses a complex engineering problem because it involves
+transistor-level digital VLSI design, analysis of multiple CMOS logic styles, SPICE-based
+simulation, functional verification, and multi-parameter performance evaluation.
+
+
+=== PAGE 8 ===
+The research requires balancing several competing engineering requirements, including
+propagation delay, average power consumption, transistor count, Power Delay Product,
+volt-age swing, and reliable logic operation. The four investigated logic styles have different
+circuit structures and electrical characteristics, making the selection of an optimal architecture
+a multi-dimensional engineering decision.
+The proposed work addresses the following Washington Accord Graduate Attributes (WA):
+• WA1 – Engineering Knowledge: Application of knowledge of CMOS devices, digital
+logic, VLSI design, and circuit analysis.
+• WA2 – Problem Analysis: Identification and analysis of power, delay, transistor count,
+and circuit complexity trade-offs.
+• WA3 – Design and Development of Solutions: Design and development of four
+transistor-level 1-bit magnitude comparator architectures.
+• WA4 – Investigation: Simulation, testing, measurement, and comparative analysis of
+circuit performance.
+• WA5 – Modern Tool Usage: Use of SPICE-based simulation and electronic design
+automation tools for circuit development and evaluation.
+• WA12 – Life-long Learning: Review and application of current research in low-power
+CMOS and VLSI circuit design.
+15. Budget (if any)
+Item
+Cost (BDT)
+Software
+0
+Internet
+1500
+Printing and Binding
+2000
+Miscellaneous
+1500
+Total
+5000
+Signature of the
+Student
+Signature of the
+Supervisor
+Signatu
+re of
+the
+Conven
+er
+Thesis/
+
+
+=== PAGE 9 ===
+Project
+Commi
+ttee
+
+

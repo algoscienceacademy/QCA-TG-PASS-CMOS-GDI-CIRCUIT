@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{1. Introduction \& Background}{3}{0}{1}
+\beamer@sectionintoc {2}{2. Literature Review \& Baseline Circuits}{8}{0}{2}
+\beamer@sectionintoc {3}{3. Gate Diffusion Input (GDI) Fundamentals}{11}{0}{3}
+\beamer@sectionintoc {4}{4. Proposed 10T GDI Magnitude Comparator}{13}{0}{4}
+\beamer@sectionintoc {5}{5. Simulation Results \& Performance Analysis}{15}{0}{5}
+\beamer@sectionintoc {6}{6. Conclusion \& Future Scope}{20}{0}{6}

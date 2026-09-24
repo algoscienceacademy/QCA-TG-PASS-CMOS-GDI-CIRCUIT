@@ -1,0 +1,244 @@
+
+================ SLIDE 1 (slides/slide1.xml) ================
+  TEXT [x=1.67, y=0.93, w=9.23, h=2.45]: 16-bit Adder with Manchester Carry Ahead.
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: Presented By
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: Ashikur Rahman Bhi
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: ET193069 
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: Chowdhury Arap Mahamud Recap
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: ET193068
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: Pranta Paul
+  TEXT [x=2.03, y=3.85, w=9.45, h=3.64]: ET193089
+  TEXT [x=8.5, y=4.0, w=2.97, h=1.67]: Supervised By
+  TEXT [x=8.5, y=4.0, w=2.97, h=1.67]:  Engr. Riazul Islam
+  TEXT [x=8.5, y=4.0, w=2.97, h=1.67]: Lecturer,
+  TEXT [x=8.5, y=4.0, w=2.97, h=1.67]:  Dept. of EEE
+  TEXT [x=8.5, y=4.0, w=2.97, h=1.67]: IIUC
+  IMAGE: image1.png [x=2.25, y=0.5, w=7.39, h=0.93]
+
+================ SLIDE 2 (slides/slide2.xml) ================
+  IMAGE: image2.png [x=0.92, y=0.57, w=9.05, h=6.06]
+
+================ SLIDE 3 (slides/slide3.xml) ================
+  TEXT [x=0.0, y=0.42, w=4.95, h=0.75]: INTRODUCTION
+  TEXT [x=0.33, y=1.19, w=10.8, h=4.68]: Adders are fundamental building blocks in digital electronics and computing. They are circuits designed to perform binary addition, the core operation behind most arithmetic functions in digital systems. Adders are not only essential for simple calculations but also serve as the foundation for more complex arithmetic operations, such as subtraction, multiplication, and division, which are widely used in various applications like media signal processing, computer processors, and embedded systems
+  TEXT [x=0.33, y=1.19, w=10.8, h=4.68]: As technology evolves, there is a growing emphasis on designing faster, smaller, and more energy-efficient adders to meet the demands of modern computing. From the basic Half Adder (HA) to more advanced structures like the Carry Look-Ahead Adder (CLA) and Kogge-Stone Adder (KSA), various adder architectures have been developed to optimize speed, area, and power consumption.
+  TEXT [x=0.33, y=1.19, w=10.8, h=4.68]: In this presentation, we will explore the different types of adders, their operation, and their significance in modern digital systems, along with the challenges and innovations in designing efficient adder circuits.
+
+================ SLIDE 4 (slides/slide4.xml) ================
+  TEXT [x=0.0, y=0.42, w=4.95, h=0.75]: BACKGROUND
+  TEXT [x=0.33, y=1.29, w=4.79, h=2.56]: A basic adder known as the Half Adder (HA) performs simple binary addition of two input bits using just an XOR gate (for the sum) and an AND gate (for the carry). The structure and behavior of a half adder can be understood through its logic circuit and accompanying truth table.
+  TEXT [x=6.5, y=4.29, w=2.95, h=0.33]: Fig 01: Half Adder design
+  IMAGE: image4.png [x=5.36, y=1.2, w=5.36, h=2.98]
+  TEXT [x=1.33, y=3.83, w=1.9, h=2.25]: A
+  TABLE [x=1.33, y=3.83, w=1.9, h=2.25]:
+    ['A', 'B', 'S', 'C']
+    ['0', '0', '0', '0']
+    ['0', '1', '1', '0']
+    ['1', '0', '1', '0']
+    ['1', '1', '0', '1']
+  TEXT [x=0.63, y=6.17, w=4.73, h=0.71]: Table 1 The truth table of a Half Adder
+
+================ SLIDE 5 (slides/slide5.xml) ================
+  TEXT [x=0.0, y=0.42, w=4.95, h=0.75]: BACKGROUND
+  TEXT [x=0.33, y=1.29, w=4.79, h=1.05]: By Combining two Half adders together we can process the outputs of the Carry along with the sum. 
+  TEXT [x=6.67, y=4.42, w=2.95, h=0.33]: Fig 02: Full Adder design
+  TEXT [x=0.6, y=2.43, w=4.25, h=4.04]: A
+  TABLE [x=0.6, y=2.43, w=4.25, h=4.04]:
+    ['A', 'B', 'Cin', 'S', 'C']
+    ['0', '0', '0', '0', '0']
+    ['0', '0', '1', '1', '0']
+    ['0', '1', '0', '1', '0']
+    ['0', '1', '1', '0', '1']
+    ['1', '0', '0', '1', '0']
+    ['1', '0', '1', '0', '1']
+    ['1', '1', '0', '0', '1']
+    ['1', '1', '1', '1', '1']
+  TEXT [x=0.55, y=6.72, w=4.64, h=0.71]: Table 2 The truth table of a Half Adder
+  IMAGE: image5.png [x=5.28, y=0.6, w=5.73, h=3.65]
+
+================ SLIDE 6 (slides/slide6.xml) ================
+  TEXT [x=0.0, y=0.42, w=4.95, h=0.75]: BACKGROUND
+  TEXT [x=0.33, y=1.29, w=4.79, h=3.47]: By Combining Full Adders in a series in this method we can calculate the sum but it is a slow method as we need to process each bit in steps and cannot skip bits for a faster computation required for multiplication.
+  TEXT [x=0.33, y=1.29, w=4.79, h=3.47]: Delay in RCA:  To calculate the most significant bit we need to calculate the previous bit which needs to be processed from the least significant bit. 
+  TEXT [x=7.23, y=6.35, w=3.49, h=0.32]: Fig 03: Ripple carry Adder  design
+  IMAGE: image6.png [x=5.0, y=1.17, w=7.95, h=5.07]
+
+================ SLIDE 7 (slides/slide7.xml) ================
+  TEXT [x=1.27, y=0.26, w=12.92, h=0.75]: BACKGROUND
+  TEXT [x=1.17, y=6.73, w=4.77, h=0.32]: Fig 04: Carry Look Ahead Carry Calculation Block
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 7
+  TEXT [x=6.69, y=1.42, w=4.14, h=2.52]: The circuit that is shown in Fig 4 is an additional circuit that calculates the carry separately.
+  TEXT [x=6.69, y=1.42, w=4.14, h=2.52]: By doing so we can calculate the sum much faster then that of the ripple carry as we do not have to take the least significant bit.
+  IMAGE: image9.png [x=6.88, y=4.14, w=1.08, h=0.31]
+  IMAGE: image10.png [x=9.13, y=4.13, w=1.16, h=0.32]
+  IMAGE: image11.png [x=6.52, y=4.74, w=4.61, h=0.85]
+  IMAGE: image12.png [x=0.62, y=0.45, w=4.99, h=6.03]
+
+================ SLIDE 8 (slides/slide8.xml) ================
+  TEXT [x=1.78, y=0.05, w=9.55, h=0.75]: BACKGROUND
+  TEXT [x=2.14, y=6.9, w=6.28, h=0.32]: Fig 05: Conventional Manchester Carry Adder Carry Calculation  
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 7
+  TEXT [x=8.33, y=1.59, w=2.42, h=3.13]: The circuit that is shown in Fig 5 is an additional circuit that calculates the carry separately.
+  TEXT [x=8.33, y=1.59, w=2.42, h=3.13]: This Circuit differs from the CLA block by not using any Logic gates.
+  IMAGE: image13.png [x=0.97, y=0.79, w=7.36, h=6.08]
+
+================ SLIDE 9 (slides/slide9.xml) ================
+  TEXT [x=0.0, y=0.33, w=12.92, h=0.75]: BACKGROUND
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 7
+  TEXT [x=6.75, y=1.75, w=4.83, h=3.43]: Instead of waiting for each carry to be produced sequentially (as in ripple-carry addition), all carries are computed in parallel using this formula.
+  TEXT [x=6.75, y=1.75, w=4.83, h=3.43]: Carry Look-Ahead Calculation is essential for building fast arithmetic circuits like those found in modern CPUs and DSPs. It improves the speed of addition operations, which are fundamental to computer performance.
+  IMAGE: image14.png [x=0.42, y=1.58, w=6.08, h=4.18]
+
+================ SLIDE 10 (slides/slide10.xml) ================
+  TEXT [x=0.0, y=0.42, w=7.47, h=0.76]: LITERATURE REVIEW
+  TEXT [x=0.58, y=1.31, w=9.71, h=5.15]: Researcher 
+  TABLE [x=0.58, y=1.31, w=9.71, h=5.15]:
+    ['Researcher ', 'Year ', 'Contribution', 'Drawback']
+    ['Padmanabhan Balasubramanian and Nikos E. Mastorakis[1]', '2022', 'Use of CLA Adder for an advanced design', 'Uses logic gates which are more complex.']
+    [' Vellingiri GOVINDARAJ, Ezhılazhagan CHENGUTTUVAN, Dhanasekar SUBRAMANIYAM[2] ', '2022', 'Use of CSKA Adder for a FIR design using bypass.', 'It uses Ripple carry adder with logic gates and a slow design. ']
+    ['P Das, A L Bhalerao, A Mane, A Angeline A and V S K Bhaaskaran[3] ', '2019', 'Use of Manchester carry adder with HSD.', 'The design does not use any bypass system.']
+
+================ SLIDE 11 (slides/slide11.xml) ================
+  TEXT [x=2.49, y=1.44, w=0.95, h=0.65]: 01
+  TEXT [x=2.47, y=3.14, w=0.95, h=0.65]: 02
+  TEXT [x=2.48, y=4.84, w=0.95, h=0.65]: 03
+  TEXT [x=0.0, y=0.17, w=6.75, h=0.75]: PROBLEM STATMENT
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 6
+  TEXT [x=3.44, y=3.32, w=5.56, h=0.47]: Reduce Rise time and Fall time
+  TEXT [x=3.43, y=1.26, w=6.06, h=1.02]: Reduce the power consumption
+  TEXT [x=3.62, y=4.98, w=6.06, h=0.55]: Reduce circuit complexity
+
+================ SLIDE 12 (slides/slide12.xml) ================
+  TEXT [x=2.49, y=1.44, w=0.95, h=0.65]: 01
+  TEXT [x=2.47, y=3.14, w=0.95, h=0.65]: 02
+  TEXT [x=2.48, y=4.84, w=0.95, h=0.65]: 03
+  TEXT [x=0.0, y=0.17, w=3.95, h=0.75]: OBJECTIVES
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 6
+  TEXT [x=3.62, y=3.32, w=6.07, h=0.94]: To improve the rise time and fall time for the circuit
+  TEXT [x=3.63, y=1.5, w=6.06, h=1.02]: A new adder design using existing designs
+  TEXT [x=3.62, y=4.98, w=6.06, h=1.02]: To calculate the power consumption of the circuit.
+
+================ SLIDE 13 (slides/slide13.xml) ================
+  TEXT [x=0.0, y=0.33, w=5.5, h=0.75]: METHODOLOGY
+  TEXT [x=2.92, y=6.36, w=2.95, h=0.33]: Fig 06: System Block Diagram
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 7
+  TEXT [x=8.92, y=2.46, w=2.42, h=1.92]: The overall system block 
+  TEXT [x=8.92, y=2.46, w=2.42, h=1.92]: Diagram contains the various components of the Adder
+  IMAGE: image15.png [x=0.58, y=1.35, w=8.26, h=4.89]
+
+================ SLIDE 14 (slides/slide14.xml) ================
+  TEXT [x=3.08, y=0.08, w=5.67, h=0.75]: METHODOLOGY
+  TEXT [x=3.67, y=6.65, w=4.33, h=0.32]: Fig 07: Type I  Cell
+  TEXT [x=12.22, y=7.03, w=0.11, h=0.23]: 7
+  IMAGE: image16.png [x=1.69, y=0.83, w=5.95, h=5.77]
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: The Type I cell incorporates one intercell 
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: and two intracell bypass transistors,
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]:  specifically P0−3P_{0-3}P0−3​, P1−3
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: P_{1-3}P1−3​, and P2−3P_{2-3}P2−3​. 
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: The presence of P0−3P_{0-3}P0−3​ 
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: enables the carry input Cin​ 
+  TEXT [x=7.75, y=1.19, w=4.93, h=2.22]: to propagate swiftly to the Type II cell. 
+
+================ SLIDE 15 (slides/slide15.xml) ================
+  TEXT [x=1.58, y=0.21, w=7.0, h=0.75]: METHODOLOGY(CONT)
+  TEXT [x=2.37, y=6.8, w=4.15, h=0.32]: Fig 08: Type II Cell  
+  IMAGE: image17.png [x=1.21, y=0.93, w=5.95, h=5.72]
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: Topologically, the Type II and Type III 
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: cells share the same structure;
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: their only distinction lies in transistor sizing,
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: which will be addressed later. 
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: The transistors P8−11P_{8-11}P8−11​ 
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: enable the standard carry-skip function 
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]: across blocks of bits when all
+  TEXT [x=7.75, y=1.58, w=5.26, h=2.52]:  propagate signals within the block are high.
+
+================ SLIDE 16 (slides/slide16.xml) ================
+  TEXT [x=1.42, y=0.08, w=7.5, h=0.75]: METHODOLOGY(CONT)
+  TEXT [x=0.99, y=6.53, w=5.99, h=0.32]: Fig 09: Type IV Cell   
+  IMAGE: image18.PNG [x=0.89, y=0.85, w=5.95, h=5.57]
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: The type IV cell differs from type II 
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: and type III cells for both transistor 
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: sizing and placement of the intercell 
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: bypass transistor (P_(12-15)).
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: The transistor P_(12-15) perform the 
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: usual skip action on blocks of bits when
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]:  all the propagate signals into the blocks 
+  TEXT [x=7.04, y=1.61, w=4.88, h=2.52]: are high. 
+
+================ SLIDE 17 (slides/slide17.xml) ================
+  TEXT [x=0.42, y=0.18, w=7.83, h=0.75]: METHODOLOGY(CONT)
+  TEXT [x=0.83, y=6.6, w=7.42, h=0.32]: Fig 10: Multiple-output domino logic gate used to compute P_(i-j)   
+  IMAGE: image19.png [x=0.89, y=0.86, w=5.95, h=5.58]
+  TEXT [x=6.95, y=1.17, w=5.24, h=1.31]: The intercell and intracell bypass transistors are controlled by signals Pi−jP_{i-j}Pi−j, which are generated by a multiple-output domino logic gate depicted in Fig. 6 
+
+================ SLIDE 18 (slides/slide18.xml) ================
+  TEXT [x=0.0, y=0.33, w=7.08, h=0.75]: METHODOLOGY(CONT)
+  TEXT [x=1.67, y=6.3, w=5.99, h=0.32]: Fig 11: Summer Circuit used in design   
+  IMAGE: image20.png [x=2.42, y=-1.03, w=5.1, h=9.43]
+  TEXT [x=9.69, y=1.22, w=3.36, h=3.43]: The carry is combined with the generate output of the half adder after that we can obtain the sum of the inputs from the summer. Each block has its bypass signal and by bypassing it we make it faster and by using a summer we can obtain the sum independently. 
+
+================ SLIDE 19 (slides/slide19.xml) ================
+  TEXT [x=0.0, y=0.08, w=11.2, h=0.76]: IMPLEMENTATION
+  TEXT [x=2.36, y=6.65, w=4.83, h=0.32]: Fig 12: Simulation parameters and analysis type
+  TEXT [x=12.13, y=7.03, w=0.2, h=0.23]: 12
+  TEXT [x=9.82, y=1.5, w=2.75, h=1.31]: This is the Cadance setting for the simuation of the circuit 
+  IMAGE: image21.png [x=0.17, y=0.84, w=9.52, h=5.46]
+
+================ SLIDE 20 (slides/slide20.xml) ================
+  TEXT [x=0.0, y=0.17, w=11.2, h=0.69]: Simulation 
+  TEXT [x=2.67, y=6.93, w=6.75, h=0.32]: Fig 09: Sum Output of Adder from simulation   
+  TEXT [x=12.13, y=7.03, w=0.2, h=0.23]: 12
+  IMAGE: image22.png [x=0.25, y=0.85, w=10.08, h=5.98]
+  TEXT [x=10.34, y=3.08, w=2.64, h=0.71]: Sum Output of adder 
+  TEXT [x=10.34, y=3.08, w=2.64, h=0.71]: for bits 12 to 15 
+
+================ SLIDE 21 (slides/slide21.xml) ================
+  TEXT [x=2.83, y=0.1, w=10.5, h=0.67]:       Simulation(CONT)    
+  TEXT [x=2.0, y=5.73, w=7.42, h=0.32]: Fig 10: Input Signals for Adder 
+  TEXT [x=0.58, y=6.15, w=10.0, h=0.71]: The Fig 10 shows the Input signal for the adder for bits 12 to 15 and the correspond to the out put of previous slide. 
+  IMAGE: image23.png [x=0.33, y=0.88, w=10.25, h=4.85]
+
+================ SLIDE 22 (slides/slide22.xml) ================
+  TEXT [x=2.83, y=0.25, w=10.5, h=0.67]:       Simulation(CONT)   
+  TEXT [x=2.41, y=5.91, w=7.42, h=0.32]: Fig 11: Output of the power Consumption of the circuit   
+  TEXT [x=0.42, y=6.42, w=11.4, h=0.71]: The Fig11 shows the Power Consumption of the circuit and the fluctuations on the graph are those of the logicoperations of the circuit when the power consumption is the highest. 
+  IMAGE: image24.png [x=0.44, y=1.23, w=10.48, h=4.52]
+
+================ SLIDE 23 (slides/slide23.xml) ================
+  TEXT [x=1.31, y=0.51, w=8.83, h=0.84]: RESULT ANALYSIS
+  TEXT [x=3.5, y=3.73, w=4.83, h=0.4]: Fig 12: The average power of the adder 
+  TEXT [x=1.87, y=4.42, w=8.08, h=0.71]: As we can see from the average power is calculated by using the calculator function of the software. 
+  IMAGE: image25.png [x=2.83, y=1.34, w=5.08, h=2.42]
+
+================ SLIDE 24 (slides/slide24.xml) ================
+  TEXT [x=3.0, y=3.73, w=5.08, h=0.4]: Fig 13 : Rise and Fall time of the Adder  
+  TEXT [x=1.31, y=0.51, w=8.83, h=0.84]: RESULT ANALYSIS(CONT)
+  TEXT [x=1.29, y=4.5, w=9.08, h=1.01]: As we can see from above Rise Time and Fall time is calculated by using the calculator and the output of the calculator is shown in the main interface of the software 
+  IMAGE: image26.png [x=2.25, y=2.0, w=6.68, h=1.46]
+
+================ SLIDE 25 (slides/slide25.xml) ================
+  TEXT [x=0.17, y=0.67, w=11.33, h=0.75]: Comparison
+  TEXT [x=11.89, y=6.32, w=0.2, h=0.23]: 19
+  TEXT [x=2.09, y=1.81, w=7.08, h=0.4]: Table1 : Performance Comparison of Various Adders(45nm)
+  IMAGE: image28.png [x=2.09, y=2.36, w=6.33, h=3.18]
+
+================ SLIDE 26 (slides/slide26.xml) ================
+  TEXT [x=0.17, y=0.67, w=11.33, h=0.75]: Comparison
+  TEXT [x=11.89, y=6.32, w=0.2, h=0.23]: 19
+  TEXT [x=2.09, y=1.81, w=7.08, h=0.4]: Table2 : Performance Comparison of Various Adders (90 nm)
+  IMAGE: image28.png [x=2.09, y=2.42, w=6.91, h=3.25]
+
+================ SLIDE 27 (slides/slide27.xml) ================
+  TEXT [x=0.93, y=0.67, w=9.4, h=0.69]: CONCLUSION
+  TEXT [x=0.17, y=1.75, w=11.83, h=2.46]: As technology advances and the demand for high-performance, low-power systems continues to grow, the importance of optimizing adder designs becomes even more critical. By understanding the strengths and limitations of various adder types, engineers can make informed decisions when developing processors, signal processing units, and other digital systems.
+  TEXT [x=0.17, y=1.75, w=11.83, h=2.46]: Ultimately, mastering adder design is not just about improving basic arithmetic operations—it's about enabling faster, smarter, and more energy-efficient computing for the future
+
+================ SLIDE 28 (slides/slide28.xml) ================
+  TEXT [x=0.0, y=0.65, w=3.91, h=0.69]: REFERENCES
+  TEXT [x=0.25, y=1.54, w=9.75, h=4.64]: [1]P. Das, A. L. Bhalerao, A. Mane, A. A Angeline, and V. S. K. Bhaaskaran, “Design of Manchester Carry Chain Adder using High speed Domino Logic,” IOP Conference Series: Materials Science and Engineering, vol. 561, no. 1, p. 012125, Oct. 2019, doi: 10.1088/1757-899X/561/1/012125.
+  TEXT [x=0.25, y=1.54, w=9.75, h=4.64]: [2]G. V, E. CHENGUTTUVAN, and D. SUBRAMANIYAM, “Design of Power and Area Efficient Carry Skip Adder and FIR filter Implementation,” El-Cezeri Fen ve Mühendislik Dergisi, Dec. 2022, doi: 10.31202/ecjse.1162711.
+  TEXT [x=0.25, y=1.54, w=9.75, h=4.64]: [3]P. Balasubramanian and N. E. Mastorakis, “High-Speed and Energy-Efficient Carry Look-Ahead Adder,” Journal of Low Power Electronics and Applications, vol. 12, no. 3, p. 46, Aug. 2022, doi: 10.3390/jlpea12030046.
+  TEXT [x=0.25, y=1.54, w=9.75, h=4.64]:  
+
+================ SLIDE 29 (slides/slide29.xml) ================
+  TEXT [x=3.33, y=3.0, w=5.15, h=1.11]: THANK YOU

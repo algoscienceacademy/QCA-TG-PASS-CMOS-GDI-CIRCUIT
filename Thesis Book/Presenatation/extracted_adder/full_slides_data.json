@@ -1,0 +1,3897 @@
+[
+  {
+    "number": 1,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "16-bit ",
+              "fontSize": 28.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Adder with Manchester Carry Ahead.",
+              "fontSize": 28.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.67,
+          "y": 0.93,
+          "w": 9.23,
+          "h": 2.45
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Presented By",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Ashikur",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Rahman ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Bhi",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "ET193069 ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Chowdhury ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Arap",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Mahamud",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Recap",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "ET193068",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Pranta",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Paul",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "ET193089",
+              "fontSize": 16.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.03,
+          "y": 3.85,
+          "w": 9.45,
+          "h": 3.64
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Supervised By",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Engr. ",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Riazul",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " Islam",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Lecturer,",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "Dept. of EEE",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "IIUC",
+              "fontSize": 19.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 8.5,
+          "y": 4.0,
+          "w": 2.97,
+          "h": 1.67
+        }
+      },
+      {
+        "type": "image",
+        "file": "image1.png",
+        "pos": {
+          "x": 2.25,
+          "y": 0.5,
+          "w": 7.39,
+          "h": 0.93
+        }
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "elements": [
+      {
+        "type": "image",
+        "file": "image2.png",
+        "pos": {
+          "x": 0.92,
+          "y": 0.57,
+          "w": 9.05,
+          "h": 6.06
+        }
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "INTRODUCTION",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.42,
+          "w": 4.95,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Adders are fundamental building blocks in digital electronics and computing. They are circuits designed to perform binary addition, the core operation behind most arithmetic functions in digital systems. Adders are not only essential for simple calculations but also serve as the foundation for more complex arithmetic operations, such as subtraction, multiplication, and division, which are widely used in various applications like media signal processing, computer processors, and embedded ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "systems",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "As technology evolves, there is a growing emphasis on designing faster, smaller, and more energy-efficient adders to meet the demands of modern computing. From the basic ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Half Adder (HA)",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " to more advanced structures like the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Carry Look-Ahead Adder (CLA)",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " and ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Kogge",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "-Stone Adder (KSA)",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": ", various adder architectures have been developed to optimize speed, area, and power consumption",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ".",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "In this presentation, we will explore the different types of adders, their operation, and their significance in modern digital systems, along with the challenges and innovations in designing efficient adder circuits.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.33,
+          "y": 1.19,
+          "w": 10.8,
+          "h": 4.68
+        }
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.42,
+          "w": 4.95,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "A basic adder known as the Half Adder (HA) performs simple binary addition of two input bits using just an XOR gate (for the sum) and an AND gate (for the carry). The structure and behavior of a half adder can be understood through its logic circuit and accompanying truth table.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.33,
+          "y": 1.29,
+          "w": 4.79,
+          "h": 2.56
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "01: ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Half Adder design",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 6.5,
+          "y": 4.29,
+          "w": 2.95,
+          "h": 0.33
+        }
+      },
+      {
+        "type": "image",
+        "file": "image4.png",
+        "pos": {
+          "x": 5.36,
+          "y": 1.2,
+          "w": 5.36,
+          "h": 2.98
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "A",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.33,
+          "y": 3.83,
+          "w": 1.9,
+          "h": 2.25
+        }
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "A",
+            "B",
+            "S",
+            "C"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "1",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "1",
+            "1",
+            "0",
+            "1"
+          ]
+        ],
+        "pos": {
+          "x": 1.33,
+          "y": 3.83,
+          "w": 1.9,
+          "h": 2.25
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Table 1",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "The truth table of a Half Adder",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.63,
+          "y": 6.17,
+          "w": 4.73,
+          "h": 0.71
+        }
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.42,
+          "w": 4.95,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "By Combining two Half adders together we can process the outputs of the Carry along with the sum. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.33,
+          "y": 1.29,
+          "w": 4.79,
+          "h": 1.05
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "2",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Full Adder design",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 6.67,
+          "y": 4.42,
+          "w": 2.95,
+          "h": 0.33
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "A",
+              "fontSize": 16.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.6,
+          "y": 2.43,
+          "w": 4.25,
+          "h": 4.04
+        }
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "A",
+            "B",
+            "Cin",
+            "S",
+            "C"
+          ],
+          [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "0",
+            "0",
+            "1",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "0",
+            "1",
+            "1",
+            "0",
+            "1"
+          ],
+          [
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+          ],
+          [
+            "1",
+            "1",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+          ]
+        ],
+        "pos": {
+          "x": 0.6,
+          "y": 2.43,
+          "w": 4.25,
+          "h": 4.04
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Table 2",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "The truth table of a Half Adder",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.55,
+          "y": 6.72,
+          "w": 4.64,
+          "h": 0.71
+        }
+      },
+      {
+        "type": "image",
+        "file": "image5.png",
+        "pos": {
+          "x": 5.28,
+          "y": 0.6,
+          "w": 5.73,
+          "h": 3.65
+        }
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.42,
+          "w": 4.95,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "By Combining Full Adders in a series in this method we can calculate the sum but it is a slow method as we need to process each bit in steps and cannot skip bits for a faster computation required for multiplication.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Delay in RCA: ",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " To calculate the most significant bit we need to calculate the previous bit which needs to be processed from the least significant bit. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.33,
+          "y": 1.29,
+          "w": 4.79,
+          "h": 3.47
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "3",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Ripple carry Adder  design",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 7.23,
+          "y": 6.35,
+          "w": 3.49,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image6.png",
+        "pos": {
+          "x": 5.0,
+          "y": 1.17,
+          "w": 7.95,
+          "h": 5.07
+        }
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.27,
+          "y": 0.26,
+          "w": 12.92,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "4",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Carry Look Ahead Carry Calculation Block",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.17,
+          "y": 6.73,
+          "w": 4.77,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "7",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The circuit that is shown in Fig 4 is an additional circuit that calculates the carry separately.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "By doing so we can calculate the sum much faster then that of the ripple carry as we do not have to take the least significant bit.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 6.69,
+          "y": 1.42,
+          "w": 4.14,
+          "h": 2.52
+        }
+      },
+      {
+        "type": "image",
+        "file": "image9.png",
+        "pos": {
+          "x": 6.88,
+          "y": 4.14,
+          "w": 1.08,
+          "h": 0.31
+        }
+      },
+      {
+        "type": "image",
+        "file": "image10.png",
+        "pos": {
+          "x": 9.13,
+          "y": 4.13,
+          "w": 1.16,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image11.png",
+        "pos": {
+          "x": 6.52,
+          "y": 4.74,
+          "w": 4.61,
+          "h": 0.85
+        }
+      },
+      {
+        "type": "image",
+        "file": "image12.png",
+        "pos": {
+          "x": 0.62,
+          "y": 0.45,
+          "w": 4.99,
+          "h": 6.03
+        }
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.78,
+          "y": 0.05,
+          "w": 9.55,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "5",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Conventional Manchester Carry Adder Carry Calculation  ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.14,
+          "y": 6.9,
+          "w": 6.28,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "7",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The circuit that is shown in Fig 5 is an additional circuit that calculates the carry separately.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "This Circuit differs from the CLA block by not using any Logic gates.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 8.33,
+          "y": 1.59,
+          "w": 2.42,
+          "h": 3.13
+        }
+      },
+      {
+        "type": "image",
+        "file": "image13.png",
+        "pos": {
+          "x": 0.97,
+          "y": 0.79,
+          "w": 7.36,
+          "h": 6.08
+        }
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "BACKGROUND",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.33,
+          "w": 12.92,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "7",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Instead of waiting for each carry to be produced sequentially (as in ripple-carry addition), all carries are computed in parallel using this formula",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ".",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Carry Look-Ahead Calculation is essential for building fast arithmetic circuits like those found in modern CPUs and DSPs. It improves the speed of addition operations, which are fundamental to computer performance.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 6.75,
+          "y": 1.75,
+          "w": 4.83,
+          "h": 3.43
+        }
+      },
+      {
+        "type": "image",
+        "file": "image14.png",
+        "pos": {
+          "x": 0.42,
+          "y": 1.58,
+          "w": 6.08,
+          "h": 4.18
+        }
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "LITERATURE",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "REVIEW",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.42,
+          "w": 7.47,
+          "h": 0.76
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Researcher ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.58,
+          "y": 1.31,
+          "w": 9.71,
+          "h": 5.15
+        }
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Researcher ",
+            "Year ",
+            "Contribution",
+            "Drawback"
+          ],
+          [
+            "Padmanabhan Balasubramanian and Nikos E. Mastorakis[1]",
+            "2022",
+            "Use of CLA Adder for an advanced design",
+            "Uses logic gates which are more complex."
+          ],
+          [
+            " Vellingiri GOVINDARAJ, Ezhılazhagan CHENGUTTUVAN, Dhanasekar SUBRAMANIYAM[2] ",
+            "2022",
+            "Use of CSKA Adder for a FIR design using bypass.",
+            "It uses Ripple carry adder with logic gates and a slow design. "
+          ],
+          [
+            "P Das, A L Bhalerao, A Mane, A Angeline A and V S K Bhaaskaran[3] ",
+            "2019",
+            "Use of Manchester carry adder with HSD.",
+            "The design does not use any bypass system."
+          ]
+        ],
+        "pos": {
+          "x": 0.58,
+          "y": 1.31,
+          "w": 9.71,
+          "h": 5.15
+        }
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "01",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.49,
+          "y": 1.44,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "02",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.47,
+          "y": 3.14,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "03",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.48,
+          "y": 4.84,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "PROBLEM STATMENT",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.17,
+          "w": 6.75,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "6",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Reduce ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Rise time and Fall time",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.44,
+          "y": 3.32,
+          "w": 5.56,
+          "h": 0.47
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Reduce ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "the power consumption",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.43,
+          "y": 1.26,
+          "w": 6.06,
+          "h": 1.02
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Reduce ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "circuit complexity",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.62,
+          "y": 4.98,
+          "w": 6.06,
+          "h": 0.55
+        }
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "01",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.49,
+          "y": 1.44,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "02",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.47,
+          "y": 3.14,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "03",
+              "fontSize": 36.0,
+              "bold": true,
+              "color": "FFFFFF"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.48,
+          "y": 4.84,
+          "w": 0.95,
+          "h": 0.65
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "OBJECTIVES",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.17,
+          "w": 3.95,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "6",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "To ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "improve the rise time and fall time for the circuit",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.62,
+          "y": 3.32,
+          "w": 6.07,
+          "h": 0.94
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "A ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "new adder design using existing designs",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.63,
+          "y": 1.5,
+          "w": 6.06,
+          "h": 1.02
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "To ",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "calculate the power consumption of the circuit.",
+              "fontSize": 28.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.62,
+          "y": 4.98,
+          "w": 6.06,
+          "h": 1.02
+        }
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.33,
+          "w": 5.5,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "6",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "System ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Block",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Diagram",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.92,
+          "y": 6.36,
+          "w": 2.95,
+          "h": 0.33
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "7",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The overall system block ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Diagram contains the various components of the Adder",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 8.92,
+          "y": 2.46,
+          "w": 2.42,
+          "h": 1.92
+        }
+      },
+      {
+        "type": "image",
+        "file": "image15.png",
+        "pos": {
+          "x": 0.58,
+          "y": 1.35,
+          "w": 8.26,
+          "h": 4.89
+        }
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.08,
+          "y": 0.08,
+          "w": 5.67,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "7",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Type I  Cell",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.67,
+          "y": 6.65,
+          "w": 4.33,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "7",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.22,
+          "y": 7.03,
+          "w": 0.11,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "image",
+        "file": "image16.png",
+        "pos": {
+          "x": 1.69,
+          "y": 0.83,
+          "w": 5.95,
+          "h": 5.77
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The Type I cell incorporates one ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "intercell",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "and ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "two ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "intracell",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " bypass transistors",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ",",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "specifically P0−3P_{0-3}P0−3​, P1−",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "3",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "P",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "_{1-3}P1−3​, and P2−3P_{2-3}P2−3​. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "The ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "presence of P0−3P_{0-3}P0−3​ ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "enables ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "the carry input ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Cin",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "​ ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "to ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "propagate swiftly to the Type II cell. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 7.75,
+          "y": 1.19,
+          "w": 4.93,
+          "h": 2.22
+        }
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY(CONT)",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.58,
+          "y": 0.21,
+          "w": 7.0,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "8",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Type II Cell ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.37,
+          "y": 6.8,
+          "w": 4.15,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image17.png",
+        "pos": {
+          "x": 1.21,
+          "y": 0.93,
+          "w": 5.95,
+          "h": 5.72
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Topologically, the Type II and Type III ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "cells ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "share the same structure",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ";",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "their ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "only distinction lies in transistor sizing",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ",",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "which ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "will be addressed later. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "The ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "transistors P8−11P_{8-11}P8−11​ ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "enable ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "the standard carry-skip function ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "across ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "blocks of bits when ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "all",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "propagate signals within the block are high.",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 7.75,
+          "y": 1.58,
+          "w": 5.26,
+          "h": 2.52
+        }
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY(CONT)",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.42,
+          "y": 0.08,
+          "w": 7.5,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "9",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Type IV Cell ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "  ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.99,
+          "y": 6.53,
+          "w": 5.99,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image18.PNG",
+        "pos": {
+          "x": 0.89,
+          "y": 0.85,
+          "w": 5.95,
+          "h": 5.57
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "T",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "he ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "type IV cell differs from type II ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "and ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "type III cells for both transistor ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "sizing ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "and placement of the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "intercell",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "bypass ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "transistor (P_(12-15",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ")).",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "The ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "transistor P_(12-15) perform the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "usual ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "skip action on blocks of bits ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "when",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "all the propagate signals into the blocks ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "are ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "high. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 7.04,
+          "y": 1.61,
+          "w": 4.88,
+          "h": 2.52
+        }
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY(CONT)",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.42,
+          "y": 0.18,
+          "w": 7.83,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "10",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ":",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Multiple-output domino logic gate used to compute P_(",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "i",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "-j",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ")",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.83,
+          "y": 6.6,
+          "w": 7.42,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image19.png",
+        "pos": {
+          "x": 0.89,
+          "y": 0.86,
+          "w": 5.95,
+          "h": 5.58
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "intercell",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "and ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "intracell",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " bypass transistors are controlled by signals Pi−",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "jP",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "_{",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "i",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "-j}Pi−j, which are generated by a multiple-output domino logic gate depicted in Fig. 6",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 6.95,
+          "y": 1.17,
+          "w": 5.24,
+          "h": 1.31
+        }
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "METHODOLOGY(CONT)",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.33,
+          "w": 7.08,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "11",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Summer Circuit used in design  ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.67,
+          "y": 6.3,
+          "w": 5.99,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "image",
+        "file": "image20.png",
+        "pos": {
+          "x": 2.42,
+          "y": -1.03,
+          "w": 5.1,
+          "h": 9.43
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "carry is combined with the generate output of the half adder after that we can obtain the sum of the inputs from the summer. Each block has its bypass signal and by bypassing it we make it faster and by using a summer we can obtain the sum independently. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 9.69,
+          "y": 1.22,
+          "w": 3.36,
+          "h": 3.43
+        }
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "IMPLEMENTATION",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.08,
+          "w": 11.2,
+          "h": 0.76
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "12",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Simulation parameters and analysis type",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.36,
+          "y": 6.65,
+          "w": 4.83,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "12",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.13,
+          "y": 7.03,
+          "w": 0.2,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "This is the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Cadance",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " setting for the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "simuation",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " of the circuit ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 9.82,
+          "y": 1.5,
+          "w": 2.75,
+          "h": 1.31
+        }
+      },
+      {
+        "type": "image",
+        "file": "image21.png",
+        "pos": {
+          "x": 0.17,
+          "y": 0.84,
+          "w": 9.52,
+          "h": 5.46
+        }
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Simulation ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.17,
+          "w": 11.2,
+          "h": 0.69
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "0",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "9",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Sum Output of Adder from simulation  ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.67,
+          "y": 6.93,
+          "w": 6.75,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "12",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 12.13,
+          "y": 7.03,
+          "w": 0.2,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "image",
+        "file": "image22.png",
+        "pos": {
+          "x": 0.25,
+          "y": 0.85,
+          "w": 10.08,
+          "h": 5.98
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Sum Output of adder ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "for bits 12 to 15 ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 10.34,
+          "y": 3.08,
+          "w": 2.64,
+          "h": 0.71
+        }
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "      Simulation(CONT)    ",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.83,
+          "y": 0.1,
+          "w": 10.5,
+          "h": 0.67
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "10",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Input Signals for Adder ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.0,
+          "y": 5.73,
+          "w": 7.42,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The Fig 10 shows the Input signal for the adder for bits 12 to 15 and the correspond to the out put of previous slide. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.58,
+          "y": 6.15,
+          "w": 10.0,
+          "h": 0.71
+        }
+      },
+      {
+        "type": "image",
+        "file": "image23.png",
+        "pos": {
+          "x": 0.33,
+          "y": 0.88,
+          "w": 10.25,
+          "h": 4.85
+        }
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "      Simulation(CONT)   ",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.83,
+          "y": 0.25,
+          "w": 10.5,
+          "h": 0.67
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "11",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ": ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "Output ",
+              "fontSize": 18.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "of the power Consumption of the circuit   ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.41,
+          "y": 5.91,
+          "w": 7.42,
+          "h": 0.32
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "The Fig11 shows the Power Consumption of the circuit and the fluctuations on the graph are those of the ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": "logicoperations",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": " of the circuit when the power consumption is the highest. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.42,
+          "y": 6.42,
+          "w": 11.4,
+          "h": 0.71
+        }
+      },
+      {
+        "type": "image",
+        "file": "image24.png",
+        "pos": {
+          "x": 0.44,
+          "y": 1.23,
+          "w": 10.48,
+          "h": 4.52
+        }
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "RESULT ",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "ANALYSIS",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.31,
+          "y": 0.51,
+          "w": 8.83,
+          "h": 0.84
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig 12: The average power of the adder ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.5,
+          "y": 3.73,
+          "w": 4.83,
+          "h": 0.4
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "As we can see from the average power is calculated by using the calculator function of the software. ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.87,
+          "y": 4.42,
+          "w": 8.08,
+          "h": 0.71
+        }
+      },
+      {
+        "type": "image",
+        "file": "image25.png",
+        "pos": {
+          "x": 2.83,
+          "y": 1.34,
+          "w": 5.08,
+          "h": 2.42
+        }
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Fig 13 : Rise and Fall time of the Adder  ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.0,
+          "y": 3.73,
+          "w": 5.08,
+          "h": 0.4
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "RESULT ",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": "ANALYSIS(CONT)",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.31,
+          "y": 0.51,
+          "w": 8.83,
+          "h": 0.84
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "As we can see from above Rise Time and Fall time is calculated by using the calculator and the output of the calculator is shown in the main interface of the software ",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 1.29,
+          "y": 4.5,
+          "w": 9.08,
+          "h": 1.01
+        }
+      },
+      {
+        "type": "image",
+        "file": "image26.png",
+        "pos": {
+          "x": 2.25,
+          "y": 2.0,
+          "w": 6.68,
+          "h": 1.46
+        }
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Comparison",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.17,
+          "y": 0.67,
+          "w": 11.33,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "19",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 11.89,
+          "y": 6.32,
+          "w": 0.2,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Table1",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " : Performance Comparison of Various Adders(45nm)",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.09,
+          "y": 1.81,
+          "w": 7.08,
+          "h": 0.4
+        }
+      },
+      {
+        "type": "image",
+        "file": "image28.png",
+        "pos": {
+          "x": 2.09,
+          "y": 2.36,
+          "w": 6.33,
+          "h": 3.18
+        }
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Comparison",
+              "fontSize": 44.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.17,
+          "y": 0.67,
+          "w": 11.33,
+          "h": 0.75
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "19",
+              "fontSize": 12.0,
+              "bold": false,
+              "color": "888888"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 11.89,
+          "y": 6.32,
+          "w": 0.2,
+          "h": 0.23
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "Table2",
+              "fontSize": null,
+              "bold": true,
+              "color": null
+            },
+            {
+              "text": " : Performance Comparison of Various Adders (90 nm)",
+              "fontSize": null,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 2.09,
+          "y": 1.81,
+          "w": 7.08,
+          "h": 0.4
+        }
+      },
+      {
+        "type": "image",
+        "file": "image28.png",
+        "pos": {
+          "x": 2.09,
+          "y": 2.42,
+          "w": 6.91,
+          "h": 3.25
+        }
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "CONCLUSION",
+              "fontSize": 40.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.93,
+          "y": 0.67,
+          "w": 9.4,
+          "h": 0.69
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "As technology advances and the demand for high-performance, low-power systems continues to grow, the importance of optimizing adder designs becomes even more critical. By understanding the strengths and limitations of various adder types, engineers can make informed decisions when developing processors, signal processing units, and other digital systems",
+              "fontSize": 20.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ".",
+              "fontSize": 20.0,
+              "bold": false,
+              "color": null
+            }
+          ],
+          [
+            {
+              "text": "Ultimately",
+              "fontSize": 20.0,
+              "bold": false,
+              "color": null
+            },
+            {
+              "text": ", mastering adder design is not just about improving basic arithmetic operations—it's about enabling faster, smarter, and more energy-efficient computing for the future",
+              "fontSize": 20.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.17,
+          "y": 1.75,
+          "w": 11.83,
+          "h": 2.46
+        }
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "REFERENCES",
+              "fontSize": 40.0,
+              "bold": true,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.0,
+          "y": 0.65,
+          "w": 3.91,
+          "h": 0.69
+        }
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "[",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "1]P. Das, A. L. ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Bhalerao",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ", A. Mane, A. A Angeline, and V. S. K. ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Bhaaskaran",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ", “Design of Manchester Carry Chain Adder using High speed Domino Logic,” IOP Conference Series: Materials Science and Engineering, vol. 561, no. 1, p. 012125, Oct. 2019, ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "doi",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ": 10.1088/1757-899X/561/1/012125.",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            }
+          ],
+          [
+            {
+              "text": "[",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "2]G. V, E. CHENGUTTUVAN, and D. SUBRAMANIYAM, “Design of Power and Area Efficient Carry Skip Adder and FIR filter Implementation,” El-",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Cezeri",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": " Fen ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "ve",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Mühendislik",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Dergisi",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ", Dec. 2022, ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "doi",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ": 10.31202/ecjse.1162711",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ".",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            }
+          ],
+          [
+            {
+              "text": "[",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "3]P. ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Balasubramanian",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": " and N. E. ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "Mastorakis",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ", “High-Speed and Energy-Efficient Carry Look-Ahead Adder,” Journal of Low Power Electronics and Applications, vol. 12, no. 3, p. 46, Aug. 2022, ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": "doi",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            },
+            {
+              "text": ": 10.3390/jlpea12030046.",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            }
+          ],
+          [
+            {
+              "text": " ",
+              "fontSize": null,
+              "bold": false,
+              "color": "000000"
+            }
+          ]
+        ],
+        "pos": {
+          "x": 0.25,
+          "y": 1.54,
+          "w": 9.75,
+          "h": 4.64
+        }
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "elements": [
+      {
+        "type": "text",
+        "paragraphs": [
+          [
+            {
+              "text": "THANK YOU",
+              "fontSize": 60.0,
+              "bold": false,
+              "color": null
+            }
+          ]
+        ],
+        "pos": {
+          "x": 3.33,
+          "y": 3.0,
+          "w": 5.15,
+          "h": 1.11
+        }
+      }
+    ]
+  }
+]
