@@ -1631,42 +1631,42 @@ A more detailed analysis of the proposed design against each benchmark publicati
 
 \noindent\textbf{Vs. Sharma et al. [4]:} While the proposed design has higher delay (336 ps vs. 5.5 ps), it achieves $2.14 \times 10^5$ times lower power consumption (34.18 pW vs. 7.3 $\mu$W) and $3,509\times$ lower PDP (0.0000114 fJ vs. 0.04 fJ), demonstrating vastly superior energy efficiency.
 
-% \section{Technology Node Scaling Evaluation}
+\section{Technology Node Scaling Evaluation}
 
-% To evaluate scalability, simulations were conducted across three PTM technology nodes: 180nm ($1.8\text{V}$), 90nm ($1.2\text{V}$), and 45nm ($1.0\text{V}$). Table~\ref{tab:res_tech_nodes} summarizes the propagation delay for the $A=B$ output across all nodes.
+To evaluate scalability, simulations were conducted across three PTM technology nodes: 180nm ($1.8\text{V}$), 90nm ($1.2\text{V}$), and 45nm ($1.0\text{V}$). Table~\ref{tab:res_tech_nodes} summarizes the propagation delay for the $A=B$ output across all nodes.
 
-% \begin{table}[H]
-% \centering
-% \caption{Propagation delay ($t_{pd}$) for the $A=B$ output across technology nodes.}
-% \label{tab:res_tech_nodes}
-% \vspace{0.2cm}
-% \begin{tabular}{|l|c|c|c|c|}
-% \hline
-% \textbf{Technology Node} & \textbf{Static CMOS} & \textbf{TG Logic} & \textbf{PTL} & \textbf{Proposed GDI} \\
-% \hline
-% 180nm PTM & 35.54 ps & 25.54 ps & 25.21 ps & \textbf{25.50 ps} \\
-% \hline
-% 90nm PTM & 35.19 ps & 35.91 ps & 25.21 ps & \textbf{25.50 ps} \\
-% \hline
-% 45nm PTM & 35.54 ps & 25.62 ps & 25.25 ps & \textbf{25.35 ps} \\
-% \hline
-% \end{tabular}
-% \end{table}
+\begin{table}[H]
+\centering
+\caption{Propagation delay ($t_{pd}$) for the $A=B$ output across technology nodes.}
+\label{tab:res_tech_nodes}
+\vspace{0.2cm}
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+\textbf{Technology Node} & \textbf{Static CMOS} & \textbf{TG Logic} & \textbf{PTL} & \textbf{Proposed GDI} \\
+\hline
+180nm PTM & 35.54 ps & 25.54 ps & 25.21 ps & \textbf{25.50 ps} \\
+\hline
+90nm PTM & 35.19 ps & 35.91 ps & 25.21 ps & \textbf{25.50 ps} \\
+\hline
+45nm PTM & 35.54 ps & 25.62 ps & 25.25 ps & \textbf{25.35 ps} \\
+\hline
+\end{tabular}
+\end{table}
 
-% The results show consistent delay performance for the GDI comparator across scaling nodes, confirming that the GDI architecture scales predictably as gate lengths decrease.
+The results show consistent delay performance for the GDI comparator across scaling nodes, confirming that the GDI architecture scales predictably as gate lengths decrease.
 
-% \subsection{Scaling Trend Analysis}
+\subsection{Scaling Trend Analysis}
 
-% Several important observations emerge from the multi-node scaling evaluation:
+Several important observations emerge from the multi-node scaling evaluation:
 
-% \begin{enumerate}
-% \item \textbf{GDI Stability:} The proposed GDI design maintains remarkably stable delay performance across all three technology nodes (25.50 ns at 180nm, 25.50 ns at 90nm, and 25.35 ns at 45nm), demonstrating a variation of less than 1\%.
-% \item \textbf{PTL Consistency:} The PTL design also shows stable performance, with delay varying by less than 0.2\% across nodes.
-% \item \textbf{Static CMOS Variation:} The static CMOS design shows minimal variation (35.54 ns to 35.19 ns), but consistently exhibits the highest delay among all designs.
-% \item \textbf{TGL Anomaly:} The TGL design shows an unusual delay increase at 90nm (35.91 ns) compared to 180nm (25.54 ns), which may be attributed to the increased sensitivity of transmission gate on-resistance to threshold voltage variations at lower supply voltages.
-% \end{enumerate}
+\begin{enumerate}
+\item \textbf{GDI Stability:} The proposed GDI design maintains remarkably stable delay performance across all three technology nodes (25.50 ns at 180nm, 25.50 ns at 90nm, and 25.35 ns at 45nm), demonstrating a variation of less than 1\%.
+\item \textbf{PTL Consistency:} The PTL design also shows stable performance, with delay varying by less than 0.2\% across nodes.
+\item \textbf{Static CMOS Variation:} The static CMOS design shows minimal variation (35.54 ns to 35.19 ns), but consistently exhibits the highest delay among all designs.
+\item \textbf{TGL Anomaly:} The TGL design shows an unusual delay increase at 90nm (35.91 ns) compared to 180nm (25.54 ns), which may be attributed to the increased sensitivity of transmission gate on-resistance to threshold voltage variations at lower supply voltages.
+\end{enumerate}
 
-% These scaling results confirm that the GDI technique is well-suited for implementation in advanced technology nodes, maintaining its performance advantages as feature sizes decrease.
+These scaling results confirm that the GDI technique is well-suited for implementation in advanced technology nodes, maintaining its performance advantages as feature sizes decrease.
 
 \section{Assess Issues: Societal, Health, Legal, and Cultural}
 

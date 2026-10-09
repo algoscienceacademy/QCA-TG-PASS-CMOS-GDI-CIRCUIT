@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.1)  9 OCT 2026 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.1)  9 OCT 2026 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,7 +336,7 @@ LaTeX Font Info:    Trying to load font information for T1+phv on input line 98.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-<iiuc_logo.jpg, id=422, 228.855pt x 228.855pt>
+<iiuc_logo.jpg, id=414, 228.855pt x 228.855pt>
 File: iiuc_logo.jpg Graphic file (type jpg)
 <use iiuc_logo.jpg>
 Package pdftex.def Info: iiuc_logo.jpg  used on input line 114.
@@ -397,7 +397,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [8]
 
 [9]
-Overfull \hbox (11.01176pt too wide) in paragraph at lines 92--92
+Overfull \hbox (11.01176pt too wide) in paragraph at lines 90--90
  [][] [][]\T1/ptm/m/n/12 Detailed Jus-ti-fi-ca-tion of Com-plex En-gi-neer-ing Prob-lem At-tributes 
  []
 
@@ -433,16 +433,16 @@ Overfull \hbox (2.41975pt too wide) in paragraph at lines 17--17
  [][] [][]\T1/ptm/m/n/12 Measured per-for-mance pa-ram-e-ters of the Trans-mis-sion Gate Logic com- 
  []
 
+)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
 
 
 [13
 
 
-])
-\tf@lot=\write6
-\openout6 = `main.lot'.
-
-
+]
 
 [14]
 
@@ -472,7 +472,7 @@ l.380 \section
 
 
 ]
-<moores_law_scaling.jpg, id=720, 331.4784pt x 185.0112pt>
+<moores_law_scaling.jpg, id=708, 331.4784pt x 185.0112pt>
 File: moores_law_scaling.jpg Graphic file (type jpg)
 <use moores_law_scaling.jpg>
 Package pdftex.def Info: moores_law_scaling.jpg  used on input line 386.
@@ -485,7 +485,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.394 
        [2 <./moores_law_scaling.jpg>]
-<vlsi_design_flow.jpg, id=725, 289.08pt x 215.8464pt>
+<vlsi_design_flow.jpg, id=713, 289.08pt x 215.8464pt>
 File: vlsi_design_flow.jpg Graphic file (type jpg)
 <use vlsi_design_flow.jpg>
 Package pdftex.def Info: vlsi_design_flow.jpg  used on input line 401.
@@ -498,7 +498,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has b
                    \relax 
 l.407 
        [3 <./vlsi_design_flow.jpg>]
-<comparator_block_diagram.jpg, id=730, 289.08pt x 215.8464pt>
+<comparator_block_diagram.jpg, id=718, 289.08pt x 215.8464pt>
 File: comparator_block_diagram.jpg Graphic file (type jpg)
 <use comparator_block_diagram.jpg>
 Package pdftex.def Info: comparator_block_diagram.jpg  used on input line 414.
@@ -563,7 +563,7 @@ Chapter 2.
 [13]
 
 [14]
-<mosfet_cross_section.jpg, id=806, 331.4784pt x 185.0112pt>
+<mosfet_cross_section.jpg, id=794, 331.4784pt x 185.0112pt>
 File: mosfet_cross_section.jpg Graphic file (type jpg)
 <use mosfet_cross_section.jpg>
 Package pdftex.def Info: mosfet_cross_section.jpg  used on input line 652.
@@ -578,7 +578,7 @@ Overfull \hbox (3.46365pt too wide) in paragraph at lines 664--666
 
 
 [16]
-<cmos_inverter_vtc.jpg, id=820, 331.4784pt x 185.0112pt>
+<cmos_inverter_vtc.jpg, id=808, 331.4784pt x 185.0112pt>
 File: cmos_inverter_vtc.jpg Graphic file (type jpg)
 <use cmos_inverter_vtc.jpg>
 Package pdftex.def Info: cmos_inverter_vtc.jpg  used on input line 701.
@@ -607,7 +607,7 @@ Overfull \hbox (9.46059pt too wide) in paragraph at lines 773--786
 [19]
 
 [20]
-<gdi_cell_structure.jpg, id=852, 289.08pt x 215.8464pt>
+<gdi_cell_structure.jpg, id=840, 289.08pt x 215.8464pt>
 File: gdi_cell_structure.jpg Graphic file (type jpg)
 <use gdi_cell_structure.jpg>
 Package pdftex.def Info: gdi_cell_structure.jpg  used on input line 825.
@@ -706,7 +706,7 @@ Overfull \hbox (21.90663pt too wide) in paragraph at lines 1115--1116
 [31]
 
 [32]
-<my_Propose_GDI_Comparator.png, id=935, 758.835pt x 530.58224pt>
+<my_Propose_GDI_Comparator.png, id=923, 758.835pt x 530.58224pt>
 File: my_Propose_GDI_Comparator.png Graphic file (type png)
 <use my_Propose_GDI_Comparator.png>
 Package pdftex.def Info: my_Propose_GDI_Comparator.png  used on input line 1209.
@@ -714,7 +714,7 @@ Package pdftex.def Info: my_Propose_GDI_Comparator.png  used on input line 1209.
 
 
 [33]
-<Static_Comparator.png, id=943, 528.7755pt x 538.4115pt>
+<Static_Comparator.png, id=931, 528.7755pt x 538.4115pt>
 File: Static_Comparator.png Graphic file (type png)
 <use Static_Comparator.png>
 Package pdftex.def Info: Static_Comparator.png  used on input line 1227.
@@ -722,7 +722,7 @@ Package pdftex.def Info: Static_Comparator.png  used on input line 1227.
 
 
 [34 <./my_Propose_GDI_Comparator.png>]
-<pass_comparator.png, id=950, 731.73375pt x 540.21825pt>
+<pass_comparator.png, id=938, 731.73375pt x 540.21825pt>
 File: pass_comparator.png Graphic file (type png)
 <use pass_comparator.png>
 Package pdftex.def Info: pass_comparator.png  used on input line 1239.
@@ -734,7 +734,7 @@ Overfull \hbox (1.08598pt too wide) in paragraph at lines 1247--1248
 \T1/ptm/m/n/12 Figure []3.4[] shows the 16-transistor TGL com-para-tor schematic, uti-liz-ing par-al-lel NMOS-
  []
 
-<TG_comparator.png, id=957, 495.65175pt x 536.0025pt>
+<TG_comparator.png, id=945, 495.65175pt x 536.0025pt>
 File: TG_comparator.png Graphic file (type png)
 <use TG_comparator.png>
 Package pdftex.def Info: TG_comparator.png  used on input line 1251.
@@ -813,29 +813,22 @@ Overfull \hbox (35.01443pt too wide) in paragraph at lines 1620--1621
 
 
 [47]
-Overfull \hbox (0.70215pt too wide) in paragraph at lines 1636--1637
-\T1/ptm/m/n/12 To eval-u-ate scal-a-bil-ity, sim-u-la-tions were con-ducted across three PTM tech-nol-ogy nodes:
- []
-
-
 
 [48]
-
-[49]
 Overfull \hbox (8.27448pt too wide) in paragraph at lines 1697--1698
 \T1/ptm/m/n/12 This re-search aligns with sev-eral United Na-tions Sus-tain-able De-vel-op-ment Goals (SDGs): 
  []
 
 
 
-[50]
+[49]
 Overfull \hbox (5.03777pt too wide) in paragraph at lines 1709--1710
 []\T1/ptm/m/n/12 The transistor-level de-sign, op-ti-miza-tion, and char-ac-ter-i-za-tion of the 10-transistor
  []
 
 
 
-[51]
+[50]
 Overfull \hbox (6.6656pt too wide) in paragraph at lines 1719--1720
 []\T1/ptm/b/n/12 Solid-State Semi-con-duc-tor Physics: \T1/ptm/m/n/12 Ac-cu-rately mod-el-ing car-rier trans-port mech-
  []
@@ -852,7 +845,7 @@ Overfull \hbox (15.2349pt too wide) in paragraph at lines 1726--1727
 
 
 
-[52]
+[51]
 Overfull \hbox (4.0509pt too wide) in paragraph at lines 1736--1737
 []\T1/ptm/b/n/12 Ultra-Low Power Dis-si-pa-tion vs. Prop-a-ga-tion De-lay: \T1/ptm/m/n/12 Low-er-ing dy-namic power
  []
@@ -869,7 +862,7 @@ Overfull \hbox (1.48235pt too wide) in paragraph at lines 1747--1748
 
 
 
-[53]
+[52]
 Overfull \hbox (7.55273pt too wide) in paragraph at lines 1751--1752
 \T1/ptm/m/n/12 not be es-ti-mated from sim-ple RC de-lay mod-els be-cause the non-linear on-resistance
  []
@@ -881,28 +874,28 @@ Overfull \hbox (0.35359pt too wide) in paragraph at lines 1752--1753
 
 
 
-[54]
+[53]
 Overfull \hbox (3.55765pt too wide) in paragraph at lines 1786--1787
 \T1/ptm/m/n/12 diac pace-mak-ers, cochlear im-plants, neu-ral record-ing in-ter-faces), bat-tery longevity
  []
 
 
 
+[54]
+
 [55]
 
 [56]
 
 [57]
-
-[58]
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 1858.
  (c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 
-[59]
+[58]
 
-[60]
+[59]
 Chapter 5.
 
 Overfull \hbox (7.49368pt too wide) in paragraph at lines 1910--1911
@@ -911,7 +904,7 @@ Overfull \hbox (7.49368pt too wide) in paragraph at lines 1910--1911
 
 
 
-[61
+[60
 
 
 
@@ -928,7 +921,7 @@ Overfull \hbox (1.56622pt too wide) in paragraph at lines 1928--1929
 
 
 
-[62]
+[61]
 Overfull \hbox (3.11307pt too wide) in paragraph at lines 1943--1944
 []\T1/ptm/b/n/12 Literature Bench-mark Anal-y-sis: \T1/ptm/m/n/12 De-tailed crit-i-cal anal-y-sis and quan-ti-ta-tive com-
  []
@@ -940,16 +933,16 @@ Overfull \hbox (4.2895pt too wide) in paragraph at lines 1952--1953
 
 
 
+[62]
+
 [63]
 
-[64]
-
-[65
+[64
 
 
 ]
 
-[66]
+[65]
 Overfull \hbox (0.76694pt too wide) in paragraph at lines 2043--2049
 \T1/pcr/m/n/12 .meas TRAN tpHL_AeqB TRIG V(A)=0.9 FALL=1 TARG V(AeqB)=0.9
  []
@@ -961,12 +954,12 @@ Overfull \hbox (0.76694pt too wide) in paragraph at lines 2043--2049
 
 
 
-[67
+[66
 
 
 ]
 
-[68]
+[67]
 Overfull \hbox (8.0819pt too wide) in paragraph at lines 2096--2097
 \T1/ptm/m/n/12 i-miza-tion, and com-put-ing time-domain con-tin-u-ous in-te-grals of in-stan-ta-neous power
  []
@@ -978,7 +971,7 @@ Overfull \hbox (0.83617pt too wide) in paragraph at lines 2097--2098
 
 
 
-[69
+[68
 
 
 ]
@@ -998,9 +991,9 @@ Overfull \hbox (0.29292pt too wide) in paragraph at lines 2120--2121
 
 
 
-[70]
+[69]
 
-[71]
+[70]
 Overfull \hbox (2.04483pt too wide) in paragraph at lines 2145--2146
 []\T1/ptm/b/n/12 IEEE Ed-i-to-rial and Bib-li-o-graphic Stan-dards: \T1/ptm/m/n/12 Wave-form def-i-ni-tions, schematic
  []
@@ -1012,9 +1005,9 @@ Overfull \hbox (9.90648pt too wide) in paragraph at lines 2156--2157
 
 
 
-[72]
+[71]
 
-[73]
+[72]
 Overfull \hbox (6.24629pt too wide) in paragraph at lines 2190--2191
 []\T1/ptm/b/n/12 Technology Decks: \T1/ptm/m/n/12 Ari-zona State Uni-ver-sity Pre-dic-tive Tech-nol-ogy Model (PTM)
  []
@@ -1026,7 +1019,7 @@ Overfull \hbox (11.22652pt too wide) in paragraph at lines 2197--2198
 
 
 
-[74
+[73
 
 
 ]
@@ -1036,38 +1029,38 @@ Overfull \hbox (29.18988pt too wide) in paragraph at lines 2205--2206
 
 
 
+[74]
+
 [75]
 
-[76]
-
-[77
+[76
 
 
 ]
 
-[78]
+[77]
 
-[79] (./main.aux)
+[78] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F46D24CB9554927CF7DACCDA9DFDD9CE;26815.
+(rerunfilecheck)             Checksum: 3A321EC039B2CCC30EC21177CD6CD46F;26394.
  ) 
 Here is how much of TeX's memory you used:
- 11116 strings out of 469685
- 174007 string characters out of 5470537
- 579793 words of memory out of 5000000
- 38985 multiletter control sequences out of 15000+600000
+ 11105 strings out of 469685
+ 173873 string characters out of 5470537
+ 579690 words of memory out of 5000000
+ 38982 multiletter control sequences out of 15000+600000
  673254 words of font info for 95 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  75i,14n,79p,1472b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Users/shahrear/AppData/Roaming/glassmorphic-latex-editor/TinyTeX/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (98 pages, 3282635 bytes).
+Output written on main.pdf (97 pages, 3280107 bytes).
 PDF statistics:
- 1452 PDF objects out of 1728 (max. 8388607)
- 1290 compressed objects within 13 object streams
- 418 named destinations out of 1000 (max. 500000)
- 888 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1430 PDF objects out of 1440 (max. 8388607)
+ 1269 compressed objects within 13 object streams
+ 410 named destinations out of 1000 (max. 500000)
+ 872 words of extra memory for PDF output out of 10000 (max. 10000000)
 
